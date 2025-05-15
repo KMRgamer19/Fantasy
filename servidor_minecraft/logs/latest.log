@@ -880,3 +880,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 15:51:37.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:44009] logged in with entity id 11306 at (-1082.4864006083958, 67.0625, 42.69999998807907)
 [15May2025 15:51:37.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
 [15May2025 15:51:37.933] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[15May2025 15:54:08.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ganster52 lost connection: Timed out
+[15May2025 15:54:08.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 left the game
+[15May2025 15:54:32.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:52311] logged in with entity id 12335 at (-1082.4864006083958, 67.0625, 42.69999998807907)
+[15May2025 15:54:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
+[15May2025 15:54:32.419] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
