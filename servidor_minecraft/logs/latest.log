@@ -1044,3 +1044,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 17:28:01.022] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15May2025 17:30:32.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15May2025 17:39:57.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ricochet
+[15May2025 17:47:27.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[15May2025 17:47:47.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[15May2025 17:49:38.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has reached the goal [Half a flight]
+[15May2025 17:59:42.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[15May2025 17:59:51.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[15May2025 17:59:54.734] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 18:01:40.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
