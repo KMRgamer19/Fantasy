@@ -856,3 +856,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 15:19:15.647] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:60321] logged in with entity id 1046 at (-1081.3788499312118, 63.0625, 40.278429850083235)
 [15May2025 15:19:15.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
 [15May2025 15:19:15.680] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[15May2025 15:20:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[15May2025 15:22:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has reached the goal [Abyssal Conqueror]
+[15May2025 15:22:37.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]

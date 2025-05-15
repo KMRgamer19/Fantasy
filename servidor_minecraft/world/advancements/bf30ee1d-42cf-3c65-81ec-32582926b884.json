@@ -6055,5 +6055,11 @@
     },
     "done": true
   },
+  "ancient_elements:abyssal_conqueror": {
+    "criteria": {
+      "abyssal_conqueror": "2025-05-15 15:22:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -8231,3 +8231,71 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 15:19:17.480] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_1
 [15May2025 15:19:17.481] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0
 [15May2025 15:19:27.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[15May2025 15:20:23.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 15:20:23.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 15:20:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[15May2025 15:21:23.014] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/walk
+[15May2025 15:21:23.015] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/walk_balustrade
+[15May2025 15:21:23.016] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower_balustrade
+[15May2025 15:21:23.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/hallway
+[15May2025 15:21:23.018] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/room
+[15May2025 15:21:23.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower
+[15May2025 15:21:23.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/stairs
+[15May2025 15:21:23.024] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/passage
+[15May2025 15:21:23.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/wall
+[15May2025 15:21:23.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/door
+[15May2025 15:21:23.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/hallway_window
+[15May2025 15:21:23.027] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower_window
+[15May2025 15:21:23.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/hallway_entrance
+[15May2025 15:21:23.031] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower_entrance
+[15May2025 15:21:23.037] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/throne
+[15May2025 15:21:23.039] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/library
+[15May2025 15:21:23.040] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/enchanting
+[15May2025 15:21:23.041] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/blacksmith
+[15May2025 15:21:23.042] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/food_storage
+[15May2025 15:21:23.043] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/alchemy
+[15May2025 15:21:23.044] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/dinning
+[15May2025 15:21:23.045] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/bed
+[15May2025 15:21:23.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/storage
+[15May2025 15:21:23.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/hay_storage
+[15May2025 15:21:23.048] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/kitchen
+[15May2025 15:21:23.049] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/coal_storage
+[15May2025 15:21:23.050] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/jukebox
+[15May2025 15:21:23.052] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/cake
+[15May2025 15:21:34.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ganster52'/1046, l='ServerLevel[world]', x=-1072.60, y=61.16, z=24.54]
+[15May2025 15:21:40.521] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:elders_temple/se
+[15May2025 15:21:40.553] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:elders_temple/sw
+[15May2025 15:21:40.584] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:elders_temple/ne
+[15May2025 15:21:40.606] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:elders_temple/nw
+[15May2025 15:22:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has reached the goal [Abyssal Conqueror]
+[15May2025 15:22:21.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ganster52'/1046, l='ServerLevel[world]', x=-1068.66, y=62.65, z=24.08], dimensionLocationPath overworld
+[15May2025 15:22:21.378] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ganster52'/1046, l='ServerLevel[world]', x=-1068.66, y=62.65, z=24.08] in list []
+[15May2025 15:22:24.927] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ganster52'/1046, l='ServerLevel[world]', x=-1072.47, y=61.32, z=25.70]
+[15May2025 15:22:32.582] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ganster52'/1046, l='ServerLevel[world]', x=-1073.04, y=61.54, z=25.12], dimensionLocationPath overworld
+[15May2025 15:22:32.582] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ganster52'/1046, l='ServerLevel[world]', x=-1073.04, y=61.54, z=25.12] in list []
+[15May2025 15:22:37.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[15May2025 15:24:31.269] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3399, l='ServerLevel[world]', x=-1047.73, y=63.36, z=21.39], dimensionLocationPath overworld
+[15May2025 15:24:31.270] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3399, l='ServerLevel[world]', x=-1047.73, y=63.36, z=21.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:24:32.068] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3399, l='ServerLevel[world]', x=-1047.13, y=62.94, z=20.93, removed=DISCARDED]
+[15May2025 15:24:53.319] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3487, l='ServerLevel[world]', x=-185.25, y=68.61, z=-503.42], dimensionLocationPath overworld
+[15May2025 15:24:53.319] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3487, l='ServerLevel[world]', x=-185.25, y=68.61, z=-503.42] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:24:55.467] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3487, l='ServerLevel[world]', x=-185.07, y=68.00, z=-502.71, removed=DISCARDED]
+[15May2025 15:24:58.342] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-185.75, y=68.00, z=-505.41], dimensionLocationPath overworld
+[15May2025 15:24:58.343] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-185.75, y=68.00, z=-505.41] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:25:01.739] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-183.08, y=69.17, z=-510.85]
+[15May2025 15:25:23.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 15:25:23.334] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 15:25:24.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-158.00, y=68.12, z=-507.25], dimensionLocationPath overworld
+[15May2025 15:25:24.439] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-158.00, y=68.12, z=-507.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:25:24.492] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-158.00, y=68.12, z=-507.25]
+[15May2025 15:26:44.085] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-155.70, y=76.00, z=-522.52], dimensionLocationPath overworld
+[15May2025 15:26:44.085] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-155.70, y=76.00, z=-522.52] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:26:44.138] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-155.70, y=76.00, z=-522.52]
+[15May2025 15:30:23.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 15:30:23.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 15:30:47.193] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-153.51, y=68.00, z=-508.35], dimensionLocationPath overworld
+[15May2025 15:30:47.193] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-153.51, y=68.00, z=-508.35] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:30:47.239] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-153.31, y=68.00, z=-508.36]
+[15May2025 15:31:17.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-104.29, y=69.25, z=-511.59], dimensionLocationPath overworld
+[15May2025 15:31:17.686] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-104.29, y=69.25, z=-511.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@416]
+[15May2025 15:31:17.987] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/119, l='ServerLevel[world]', x=-106.34, y=68.00, z=-511.15]
