@@ -895,3 +895,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 22:51:09.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
 [15May2025 22:51:09.037] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [15May2025 22:56:10.829] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 22:56:58.851] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.181.128.176:40895] logged in with entity id 11374 at (-147.99996179060653, 72.0, -521.1324800330319)
+[15May2025 22:56:58.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
+[15May2025 22:56:58.877] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
+[15May2025 23:02:23.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[15May2025 23:02:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[15May2025 23:04:15.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
