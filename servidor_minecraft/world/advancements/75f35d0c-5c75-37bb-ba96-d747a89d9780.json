@@ -4087,6 +4087,18 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/squire_leggings": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-15 17:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-15 17:09:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2025-05-15 16:29:54 +0000"
@@ -4123,6 +4135,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/squire_helmet": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-15 17:10:50 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-05-15 16:40:55 +0000"
@@ -4135,6 +4153,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/squire_chestplate": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-15 17:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-05-15 16:37:56 +0000"
@@ -4144,6 +4168,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-05-15 16:27:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-15 17:10:05 +0000"
     },
     "done": true
   },
@@ -4207,6 +4237,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-15 17:10:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-15 16:24:19 +0000"
@@ -4219,9 +4255,24 @@
     },
     "done": true
   },
+  "soulsweapons:recipes/misc/lost_soul": {
+    "criteria": {
+      "has_item": "2025-05-15 17:09:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-15 17:09:58 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:master_bow_collector": {
     "criteria": {
-      "emerald_sage_bow": "2025-05-15 16:22:05 +0000"
+      "arc_heavens": "2025-05-15 17:08:46 +0000",
+      "emerald_sage_bow": "2025-05-15 16:22:05 +0000",
+      "scatter_bow": "2025-05-15 17:07:33 +0000",
+      "solar_bow": "2025-05-15 17:10:39 +0000"
     },
     "done": false
   },
@@ -4240,6 +4291,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-15 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/squire_boots": {
+    "criteria": {
+      "has_iron_horse_armor": "2025-05-15 17:10:50 +0000"
     },
     "done": true
   },
