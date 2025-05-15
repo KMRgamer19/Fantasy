@@ -3821,6 +3821,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-05-15 17:00:23 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-05-15 16:43:42 +0000"

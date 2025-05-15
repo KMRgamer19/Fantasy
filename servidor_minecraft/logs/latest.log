@@ -954,3 +954,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 16:48:34.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Into Fire]
 [15May2025 16:49:21.687] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/46812, l='ServerLevel[world]', x=-140.30, y=67.72, z=-502.50] died, message: 'Fletcher tried to swim in lava'
 [15May2025 16:51:05.824] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 16:56:29.226] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
