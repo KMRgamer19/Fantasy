@@ -906,3 +906,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:14:37.130] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
 [15May2025 23:14:41.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> manco
 [15May2025 23:16:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[15May2025 23:17:24.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> duerma
+[15May2025 23:20:05.630] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 23:20:05.631] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 23:22:35.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no se que es este aldeano pero bueno
+[15May2025 23:22:55.794] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19432, l='ServerLevel[world]', x=-140.50, y=67.71, z=-502.50] died, message: 'Unemployed tried to swim in lava'
+[15May2025 23:23:02.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> no me distraiga ando en busca de dragones
+[15May2025 23:23:13.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[15May2025 23:24:44.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[15May2025 23:24:44.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[15May2025 23:25:20.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.181.128.176:49761] logged in with entity id 20275 at (-107.072261249611, 68.0, -512.9790595960297)
+[15May2025 23:25:20.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
+[15May2025 23:25:20.823] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
+[15May2025 23:26:17.797] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/20984, l='ServerLevel[world]', x=-87.82, y=66.43, z=-517.29] died, message: 'Fletcher tried to swim in lava'
+[15May2025 23:26:31.993] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/21125, l='ServerLevel[world]', x=-87.42, y=66.39, z=-517.28] died, message: 'Fletcher tried to swim in lava'

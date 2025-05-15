@@ -4844,12 +4844,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
@@ -4861,12 +4855,6 @@
       "has_gold_block": "2025-05-15 22:14:09 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
@@ -4897,12 +4885,6 @@
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/void_upgrade": {
     "criteria": {
@@ -4952,12 +4934,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-05-15 22:14:06 +0000"
@@ -4970,23 +4946,11 @@
     },
     "done": true
   },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
@@ -4999,12 +4963,6 @@
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
@@ -5023,12 +4981,6 @@
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
@@ -5060,23 +5012,11 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "iceandfire:recipes/misc/dragon_ice_spikes": {
     "criteria": {
@@ -5090,23 +5030,11 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
-  },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-05-15 23:11:50 +0000"
-    },
-    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
