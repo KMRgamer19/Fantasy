@@ -859,3 +859,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 15:20:47.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
 [15May2025 15:22:00.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has reached the goal [Abyssal Conqueror]
 [15May2025 15:22:37.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[15May2025 15:31:31.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ganster52 lost connection: Disconnected
+[15May2025 15:31:31.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 left the game
+[15May2025 15:31:32.042] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15May2025 15:31:50.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:46413] logged in with entity id 5469 at (-1082.4864006083958, 67.0625, 42.69999998807907)
+[15May2025 15:31:50.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
+[15May2025 15:31:50.475] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[15May2025 15:37:35.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ganster52 lost connection: Timed out
+[15May2025 15:37:35.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 left the game
+[15May2025 15:37:53.096] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:48877] logged in with entity id 7110 at (-1082.4864006083958, 67.0625, 42.69999998807907)
+[15May2025 15:37:53.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
+[15May2025 15:37:53.120] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[15May2025 15:39:23.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[15May2025 15:39:32.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
