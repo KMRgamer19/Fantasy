@@ -4270,6 +4270,7 @@
   "too_many_bows:master_bow_collector": {
     "criteria": {
       "arc_heavens": "2025-05-15 17:08:46 +0000",
+      "spectral_whisper": "2025-05-15 17:27:08 +0000",
       "emerald_sage_bow": "2025-05-15 16:22:05 +0000",
       "scatter_bow": "2025-05-15 17:07:33 +0000",
       "solar_bow": "2025-05-15 17:10:39 +0000"
@@ -4279,6 +4280,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-05-15 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-15 17:21:25 +0000"
     },
     "done": true
   },
