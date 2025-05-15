@@ -885,3 +885,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 15:54:32.395] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:52311] logged in with entity id 12335 at (-1082.4864006083958, 67.0625, 42.69999998807907)
 [15May2025 15:54:32.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
 [15May2025 15:54:32.419] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[15May2025 16:05:33.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ganster52 lost connection: Timed out
+[15May2025 16:05:33.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 left the game
+[15May2025 16:05:46.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.74.39.253:53503] logged in with entity id 16294 at (-1071.6269301616371, 63.0, 48.102838945790594)
+[15May2025 16:05:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
+[15May2025 16:05:46.516] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[15May2025 16:11:52.870] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[15May2025 16:12:19.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Rattlesnake
+[15May2025 16:13:14.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 16:13:44.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Zombie
+[15May2025 16:16:37.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [Voluntary Exile]
+[15May2025 16:20:41.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jhonny365[/127.90.138.22:55203] logged in with entity id 22926 at (257.02617652901597, 68.0, -294.96567738329077)
+[15May2025 16:20:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 joined the game
+[15May2025 16:20:41.029] [Server thread/INFO] [Jade/]: Syncing config to jhonny365 (75f35d0c-5c75-37bb-ba96-d747a89d9780)
+[15May2025 16:22:05.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Too Many Bows]

@@ -652,7 +652,8 @@
       "minecraft:phantom": "2025-05-14 20:10:16 +0000",
       "minecraft:witch": "2025-05-13 18:19:41 +0000",
       "minecraft:zombie": "2025-05-13 18:00:02 +0000",
-      "minecraft:drowned": "2025-05-14 20:05:09 +0000"
+      "minecraft:drowned": "2025-05-14 20:05:09 +0000",
+      "minecraft:zombie_villager": "2025-05-15 16:15:26 +0000"
     },
     "done": false
   },
@@ -2644,6 +2645,8 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-05-15 16:20:13 +0000",
+      "entered_pillager_camp": "2025-05-15 16:17:19 +0000",
       "entered_fishing_ship": "2025-05-13 19:00:01 +0000",
       "entered_sunken_shrine": "2025-05-13 19:04:22 +0000"
     },
@@ -3813,6 +3816,180 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-05-14 20:17:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-15 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/brittle_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_leggings": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-15 16:16:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-15 16:19:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-15 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_helmet3": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:recipes/building_blocks/layered_sandstone_from_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-05-15 16:16:56 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-15 16:19:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_boots": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/decorations/chungus_monolith": {
+    "criteria": {
+      "has_item": "2025-05-15 16:17:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-15 16:19:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-15 16:19:10 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/husk_chestplate": {
+    "criteria": {
+      "has_sandstone": "2025-05-15 16:15:28 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-05-15 16:19:10 +0000"
     },
     "done": true
   },
