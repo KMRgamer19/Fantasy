@@ -16436,3 +16436,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 18:12:56.338] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
 [15May2025 18:13:41.122] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [15May2025 18:14:19.318] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[15May2025 18:15:23.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 18:15:23.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 18:16:30.325] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 18:16:31.026] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 18:17:27.394] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/22926, l='ServerLevel[world]', x=262.15, y=68.00, z=-294.22]
+[15May2025 18:20:23.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15May2025 18:20:23.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15May2025 18:22:49.366] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:ice/ice_tower_bottom
+[15May2025 18:22:49.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of totw_modded:regular/waystone_tower_top
+[15May2025 18:22:49.474] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[15May2025 18:24:02.595] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/22926, l='ServerLevel[world]', x=592.12, y=58.00, z=-817.83], dimensionLocationPath overworld
+[15May2025 18:24:02.596] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/22926, l='ServerLevel[world]', x=592.12, y=58.00, z=-817.83] in list []
+[15May2025 18:24:03.742] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/22926, l='ServerLevel[world]', x=592.56, y=57.23, z=-816.89]
+[15May2025 18:24:05.940] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/22926, l='ServerLevel[world]', x=593.66, y=53.00, z=-815.67], dimensionLocationPath overworld
+[15May2025 18:24:05.940] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/22926, l='ServerLevel[world]', x=593.66, y=53.00, z=-815.67] in list []
+[15May2025 18:24:18.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Who You Gonna Call?]
+[15May2025 18:24:31.344] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
