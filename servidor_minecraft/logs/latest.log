@@ -901,3 +901,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15May2025 23:02:23.845] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
 [15May2025 23:02:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
 [15May2025 23:04:15.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[15May2025 23:14:37.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.181.128.176:55945] logged in with entity id 15947 at (-148.77846853159556, 72.0, -521.1064041740636)
+[15May2025 23:14:37.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
+[15May2025 23:14:37.130] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
+[15May2025 23:14:41.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> manco
+[15May2025 23:16:10.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
