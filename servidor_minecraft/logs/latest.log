@@ -895,3 +895,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 20:31:46.506] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [16May2025 20:35:47.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Vindicator
 [16May2025 20:36:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Vindicator
+[16May2025 20:41:32.621] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:43:24.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16May2025 20:43:38.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:43:38.972] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:43:41.224] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:44:20.091] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/31993, l='ServerLevel[world]', x=-131.95, y=65.73, z=-518.49] died, message: 'Unemployed tried to swim in lava'
+[16May2025 20:49:36.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16May2025 20:49:49.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:50:07.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already

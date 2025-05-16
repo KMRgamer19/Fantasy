@@ -1010,6 +1010,7 @@
       "minecraft:blaze": "2025-05-15 16:46:00 +0000",
       "minecraft:skeleton": "2025-05-13 18:33:58 +0000",
       "minecraft:hoglin": "2025-05-15 16:37:45 +0000",
+      "minecraft:vindicator": "2025-05-16 20:49:03 +0000",
       "minecraft:spider": "2025-05-13 18:34:46 +0000",
       "minecraft:creeper": "2025-05-14 00:47:11 +0000",
       "minecraft:slime": "2025-05-16 01:31:32 +0000",
@@ -2613,6 +2614,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-05-13 21:41:26 +0000",
+      "entered_pillager_camp": "2025-05-16 20:48:42 +0000",
       "entered_castle": "2025-05-14 03:20:59 +0000",
       "entered_watch_tower": "2025-05-13 20:13:50 +0000",
       "entered_ruined_building": "2025-05-13 21:04:34 +0000"
@@ -5508,6 +5510,13 @@
       "has_item": "2025-05-16 01:44:47 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "custom": "2025-05-16 20:50:01 +0000",
+      "direct": "2025-05-16 20:50:01 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
