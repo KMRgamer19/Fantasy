@@ -861,3 +861,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 19:31:24.294] [Server thread/INFO] [Jade/]: Syncing config to jhonny365 (75f35d0c-5c75-37bb-ba96-d747a89d9780)
 [16May2025 19:34:36.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [16May2025 19:37:44.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3612, l='ServerLevel[world]', x=-131.92, y=65.72, z=-518.33] died, message: 'Unemployed tried to swim in lava'
+[16May2025 19:40:55.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 19:41:08.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[16May2025 19:41:40.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 19:41:54.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 19:44:52.378] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5701, l='ServerLevel[world]', x=-132.72, y=65.32, z=-518.51] died, message: 'Unemployed tried to swim in lava'
+[16May2025 19:44:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 19:45:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 19:45:11.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4907, l='ServerLevel[world]', x=-173.50, y=68.00, z=-518.70] died, message: 'Librarian was slain by Zombie'
