@@ -885,3 +885,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 20:18:45.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
 [16May2025 20:18:45.544] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
 [16May2025 20:18:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> te saco de discrod
+[16May2025 20:20:41.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:23:11.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18733, l='ServerLevel[world]', x=-132.61, y=65.32, z=-518.51] died, message: 'Unemployed tried to swim in lava'
