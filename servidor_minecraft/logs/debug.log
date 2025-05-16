@@ -19889,3 +19889,103 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 00:47:31.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya lo vi
 [16May2025 00:47:36.592] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/43622, l='ServerLevel[world]', x=209.32, y=-29.75, z=-1705.56, removed=DISCARDED]
 [16May2025 00:47:50.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 00:48:21.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[16May2025 00:48:25.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a quien viste
+[16May2025 00:48:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a ti
+[16May2025 00:48:33.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 00:49:05.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> el dragon de aqui ya lo mataron?
+[16May2025 00:49:33.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> creo que si
+[16May2025 00:49:37.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 00:49:53.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si
+[16May2025 00:50:02.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si lo mate
+[16May2025 00:50:06.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! 10.519290375675752,0.0,2.087638330822301
+[16May2025 00:50:28.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -3.1243744177135113,4.124992787052136,-8.739817892525934
+[16May2025 00:50:30.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -7.623717351255323,0.19484769777817235,-7.10798680559742
+[16May2025 00:50:32.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -8.737190635002833,3.1425383501487687,-5.336522226841225
+[16May2025 00:50:34.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -7.358624890625094,-2.8181688159839524,-7.128775818387794
+[16May2025 00:50:50.390] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -3.4682276418495235,0.2172312375519425,-9.396017662678332
+[16May2025 00:50:56.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -5.132747359874202,0.0,-9.14856692789158
+[16May2025 00:51:02.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! 7.238360994262393,0.0,7.183807231039282
+[16May2025 00:51:14.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[16May2025 00:51:23.726] [Worker-Main-160/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:monster_maze/root
+[16May2025 00:51:23.864] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[16May2025 00:51:23.873] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[16May2025 00:51:23.885] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[16May2025 00:51:23.897] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[16May2025 00:51:23.908] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[16May2025 00:51:23.922] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[16May2025 00:51:23.947] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[16May2025 00:51:23.957] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[16May2025 00:51:23.968] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[16May2025 00:51:23.976] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[16May2025 00:51:23.990] [Worker-Main-159/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[16May2025 00:51:31.437] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=367.13, y=73.38, z=-1679.78]
+[16May2025 00:51:32.101] [Worker-Main-175/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16May2025 00:51:34.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no se a donde va pero bueno
+[16May2025 00:51:50.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:51:50.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 00:51:58.683] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=306.42, y=73.00, z=-1698.46], dimensionLocationPath overworld
+[16May2025 00:51:58.683] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=306.42, y=73.00, z=-1698.46] in list []
+[16May2025 00:52:06.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 00:52:14.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pique pues
+[16May2025 00:52:14.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> es hacker es hacker
+[16May2025 00:52:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> asi bajo
+[16May2025 00:52:45.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no se si es hembra
+[16May2025 00:52:52.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> esconde mucho la cola
+[16May2025 00:52:55.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -0.8458602877417434,10.124841715055148,0.8935384897927179
+[16May2025 00:53:00.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> que cola
+[16May2025 00:53:05.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> mirele las alas
+[16May2025 00:53:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 00:53:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pdj en donde te dije que picara no ibas a caer a un lado
+[16May2025 00:53:47.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> yo se lo que hago XD
+[16May2025 00:53:47.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> hay le vas a caer mas o menos lejos
+[16May2025 00:54:14.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> baja
+[16May2025 00:54:34.583] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.19, z=-1704.70]
+[16May2025 00:54:36.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> le caes arriba
+[16May2025 00:54:36.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.46, z=-1704.70], dimensionLocationPath overworld
+[16May2025 00:54:36.283] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.46, z=-1704.70] in list []
+[16May2025 00:54:40.433] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.08, z=-1704.70]
+[16May2025 00:54:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pero dale
+[16May2025 00:54:48.182] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.46, z=-1704.70], dimensionLocationPath overworld
+[16May2025 00:54:48.182] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.46, z=-1704.70] in list []
+[16May2025 00:54:49.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.00, z=-1704.70]
+[16May2025 00:54:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> quien lo entiende
+[16May2025 00:54:52.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.42, z=-1704.70], dimensionLocationPath overworld
+[16May2025 00:54:52.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.42, z=-1704.70] in list []
+[16May2025 00:54:55.587] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.14, z=-1704.70]
+[16May2025 00:55:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> se movio mucho
+[16May2025 00:55:01.083] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.58, y=11.23, z=-1704.30], dimensionLocationPath overworld
+[16May2025 00:55:01.083] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.58, y=11.23, z=-1704.30] in list []
+[16May2025 00:55:04.884] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.21, z=-1704.32]
+[16May2025 00:55:05.832] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.52, z=-1704.32], dimensionLocationPath overworld
+[16May2025 00:55:05.832] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.52, z=-1704.32] in list []
+[16May2025 00:55:09.832] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.00, z=-1704.32]
+[16May2025 00:55:14.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.46, z=-1704.33], dimensionLocationPath overworld
+[16May2025 00:55:14.484] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=297.70, y=11.46, z=-1704.33] in list []
+[16May2025 00:55:28.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> agua
+[16May2025 00:55:34.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> aja dale asi
+[16May2025 00:55:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> agua
+[16May2025 00:55:40.582] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=299.70, y=6.08, z=-1696.53]
+[16May2025 00:55:43.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 00:55:46.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=299.70, y=6.41, z=-1696.53], dimensionLocationPath overworld
+[16May2025 00:55:46.237] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=299.70, y=6.41, z=-1696.53] in list []
+[16May2025 00:55:48.234] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=299.70, y=6.33, z=-1696.53]
+[16May2025 00:55:55.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pica hay asia bajo
+[16May2025 00:55:58.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=300.34, y=4.00, z=-1699.16], dimensionLocationPath overworld
+[16May2025 00:55:58.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/113, l='ServerLevel[world]', x=300.34, y=4.00, z=-1699.16] in list []
+[16May2025 00:56:13.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pica
+[16May2025 00:56:23.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pa ya no
+[16May2025 00:56:43.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> baja ahora
+[16May2025 00:56:50.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 00:56:50.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 00:56:50.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> voltra
+[16May2025 00:56:57.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> voltea
+[16May2025 00:57:10.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd tampoco para alla
+[16May2025 00:57:22.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> para donde esta el hielo pica
+[16May2025 00:57:43.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> por hay donde esta el mineral azul
+[16May2025 00:57:45.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> voltea
+[16May2025 00:57:53.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> bueno
+[16May2025 00:57:54.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> lo se pendejo
+[16May2025 00:57:58.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> hago un base
+[16May2025 00:58:04.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> proce de a morir
+[16May2025 00:58:09.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> no voy a parecer en la quinta verga
