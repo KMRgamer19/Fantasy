@@ -289,3 +289,85 @@
 [16May2025 01:25:25.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=467, y=96, z=-2041}
 [16May2025 01:25:44.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set the time to 13000]
 [16May2025 01:25:57.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -5.537814979393147,-5.999738498554358,6.737756895887742
+[16May2025 01:29:28.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> me avise cuando vuelva
+[16May2025 01:29:32.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya volvi
+[16May2025 01:30:35.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Simple Dungeon Room]
+[16May2025 01:32:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> tonces
+[16May2025 01:32:35.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set the time to 13000]
+[16May2025 01:32:38.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> sube
+[16May2025 01:33:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a ja ve por el agua
+[16May2025 01:33:11.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> asoa atra
+[16May2025 01:33:18.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> gira
+[16May2025 01:33:26.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> voltea
+[16May2025 01:33:40.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ven
+[16May2025 01:33:48.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[16May2025 01:33:52.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ven
+[16May2025 01:33:58.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> que lag
+[16May2025 01:34:24.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> lag tengo yo y no me quejo
+[16May2025 01:34:31.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> me refiero a usted
+[16May2025 01:34:33.785] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 01:34:51.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 01:35:14.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> su madre
+[16May2025 01:35:27.173] [Worker-Main-86/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[16May2025 01:35:47.839] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=624, y=99, z=-1560}
+[16May2025 01:35:53.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y por eso el dragon de hielo es el peor s sale en una superfice de agua valio madre
+[16May2025 01:36:13.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[16May2025 01:36:19.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> esta aui
+[16May2025 01:36:29.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 01:36:33.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> es ciego
+[16May2025 01:36:52.194] [Worker-Main-224/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[16May2025 01:37:30.780] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 01:37:58.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> jhonny
+[16May2025 01:38:16.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> te digo algo se regenro 100 de vida
+[16May2025 01:38:49.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! 6.947229164526732,0.0,7.522637285703922
+[16May2025 01:38:51.678] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=722, y=21, z=-1698}
+[16May2025 01:38:51.678] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=723, y=21, z=-1698}
+[16May2025 01:38:51.678] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=723, y=22, z=-1699}
+[16May2025 01:38:51.678] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=722, y=21, z=-1698}
+[16May2025 01:38:51.678] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=723, y=21, z=-1698}
+[16May2025 01:38:51.678] [Worker-Main-122/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=723, y=22, z=-1699}
+[16May2025 01:39:00.142] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[16May2025 01:39:00.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[16May2025 01:39:56.050] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.181.128.176:54997] logged in with entity id 58073 at (409.0128101535744, 69.78723609967636, -1858.3426515000872)
+[16May2025 01:39:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
+[16May2025 01:39:56.108] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
+[16May2025 01:40:31.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set the time to 13000]
+[16May2025 01:42:03.029] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 01:42:16.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 01:42:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 01:42:24.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> sal de hay
+[16May2025 01:42:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set the time to 1000]
+[16May2025 01:42:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> para el lobby
+[16May2025 01:43:08.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> esa mierda no fue muy devil?
+[16May2025 01:43:18.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> tenia 315
+[16May2025 01:43:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> de via al principio
+[16May2025 01:43:45.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> cuando lo peleaste primera vez lo dejaste en 125
+[16May2025 01:44:00.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y cuando subio y te fuiste recupero 100 de vida
+[16May2025 01:44:03.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> estoy casi seguro que apenas lo toque
+[16May2025 01:44:17.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 01:44:22.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> yo ni lo ataque
+[16May2025 01:44:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 01:45:39.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> bueno tengo que hacer algo manan continamos
+[16May2025 01:45:47.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> okey
+[16May2025 01:45:50.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> me llamaron para una pelea general en albion
+[16May2025 01:45:52.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -4.615355302132343,-1.3356647570745395,9.835879782266602
+[16May2025 01:46:06.938] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhonny365 lost connection: Disconnected
+[16May2025 01:46:06.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 left the game
+[16May2025 01:46:31.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 01:47:20.786] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[16May2025 01:47:20.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[16May2025 01:47:46.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 01:47:46.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 01:47:46.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 01:47:46.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 01:47:46.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 01:47:46.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 01:47:46.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 01:47:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 01:47:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 01:47:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 01:47:46.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 01:47:46.501] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16May2025 01:47:46.502] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16May2025 01:47:46.504] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[16May2025 01:47:46.509] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

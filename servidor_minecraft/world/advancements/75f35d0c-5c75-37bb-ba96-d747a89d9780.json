@@ -133,6 +133,7 @@
       "minecraft:forest": "2025-05-13 18:02:16 +0000",
       "minecraft:lush_caves": "2025-05-13 19:07:31 +0000",
       "minecraft:ice_spikes": "2025-05-14 02:05:22 +0000",
+      "minecraft:frozen_ocean": "2025-05-16 01:29:37 +0000",
       "minecraft:snowy_beach": "2025-05-14 02:12:11 +0000",
       "minecraft:plains": "2025-05-16 00:37:25 +0000"
     },
@@ -1011,6 +1012,7 @@
       "minecraft:hoglin": "2025-05-15 16:37:45 +0000",
       "minecraft:spider": "2025-05-13 18:34:46 +0000",
       "minecraft:creeper": "2025-05-14 00:47:11 +0000",
+      "minecraft:slime": "2025-05-16 01:31:32 +0000",
       "minecraft:zombified_piglin": "2025-05-13 21:56:20 +0000",
       "minecraft:witch": "2025-05-14 02:01:21 +0000",
       "minecraft:wither_skeleton": "2025-05-15 16:41:34 +0000",
@@ -1019,6 +1021,7 @@
       "minecraft:enderman": "2025-05-15 18:07:03 +0000",
       "minecraft:silverfish": "2025-05-16 00:57:12 +0000",
       "minecraft:zombie": "2025-05-13 18:08:56 +0000",
+      "minecraft:drowned": "2025-05-16 01:38:08 +0000",
       "minecraft:zombie_villager": "2025-05-13 22:03:41 +0000"
     },
     "done": false
@@ -4852,6 +4855,12 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
@@ -4912,6 +4921,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "soulsweapons:recipes/combat/guts_sword": {
     "criteria": {
       "has_item": "2025-05-15 22:14:06 +0000"
@@ -4948,6 +4963,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_chestplate": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-16 01:30:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
@@ -4978,6 +4999,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_helmet": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-16 01:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-16 00:41:43 +0000"
@@ -5001,6 +5028,12 @@
       "has_planks": "2025-05-16 00:41:43 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
@@ -5104,6 +5137,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-16 00:53:08 +0000"
@@ -5140,6 +5179,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-16 01:31:32 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2025-05-15 23:32:09 +0000"
@@ -5152,17 +5197,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-16 01:31:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
   },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
   },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
@@ -5200,6 +5263,12 @@
     },
     "done": true
   },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
@@ -5230,11 +5299,23 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_leggings": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-16 01:30:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-05-16 00:53:08 +0000"
     },
     "done": true
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/chipped/alchemy_bench_upgrade": {
     "criteria": {
@@ -5266,6 +5347,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/shinobi_boots": {
+    "criteria": {
+      "has_diamond_sword": "2025-05-16 01:30:33 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/nail_glaive": {
     "criteria": {
       "has_iron_block": "2025-05-15 22:14:06 +0000"
@@ -5278,6 +5365,12 @@
     },
     "done": true
   },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
@@ -5287,6 +5380,18 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-05-15 23:22:03 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-16 01:31:32 +0000"
     },
     "done": true
   },
@@ -5307,6 +5412,12 @@
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
     },
     "done": true
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/blasting_upgrade": {
     "criteria": {
@@ -5332,9 +5443,27 @@
     },
     "done": true
   },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-05-16 01:45:51 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-05-16 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-16 01:31:32 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-05-16 01:30:35 +0000"
     },
     "done": true
   },
@@ -5431,6 +5560,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-15 22:14:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-05-16 01:44:47 +0000"
     },
     "done": true
   },
