@@ -14030,3 +14030,476 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 23:23:07.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=64.23, y=90.00, z=997.70], dimensionLocationPath overworld
 [16May2025 23:23:07.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=64.23, y=90.00, z=997.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
 [16May2025 23:23:07.372] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=64.23, y=90.00, z=997.70]
+[16May2025 23:23:35.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.30, y=93.50, z=1014.53], dimensionLocationPath overworld
+[16May2025 23:23:35.826] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.30, y=93.50, z=1014.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:23:37.375] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.90, y=94.25, z=1015.33]
+[16May2025 23:23:51.022] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[16May2025 23:23:52.171] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.70, y=93.00, z=1004.89], dimensionLocationPath overworld
+[16May2025 23:23:52.171] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.70, y=93.00, z=1004.89] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:23:52.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.38, y=93.00, z=1003.26]
+[16May2025 23:23:55.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.99, y=92.00, z=994.71], dimensionLocationPath overworld
+[16May2025 23:23:55.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.99, y=92.00, z=994.71] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:24:02.420] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.47, y=91.02, z=995.48]
+[16May2025 23:24:04.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.41, y=90.00, z=989.98], dimensionLocationPath overworld
+[16May2025 23:24:04.972] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.41, y=90.00, z=989.98] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:24:06.426] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.14, y=90.00, z=988.98]
+[16May2025 23:24:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> se tenia que romper el pico viva la verga
+[16May2025 23:25:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> como dicen hombre prevenido vale x2
+[16May2025 23:25:05.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 23:25:05.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> por cierto en que andas
+[16May2025 23:25:15.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> su madre
+[16May2025 23:25:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a mi hermano lo estoy es salvando de su muerte
+[16May2025 23:25:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> lo escuche respirar
+[16May2025 23:25:28.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> que andan cazando
+[16May2025 23:25:39.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:25:41.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved wrongly!
+[16May2025 23:25:55.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=60.10, y=93.50, z=998.78], dimensionLocationPath overworld
+[16May2025 23:25:55.774] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=60.10, y=93.50, z=998.78] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:26:03.125] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.47, y=100.00, z=1002.54]
+[16May2025 23:26:12.020] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[16May2025 23:27:30.221] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=59.87, y=100.06, z=1009.24], dimensionLocationPath overworld
+[16May2025 23:27:30.221] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=59.87, y=100.06, z=1009.24] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:27:34.923] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=45.39, y=100.00, z=997.05]
+[16May2025 23:27:57.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:27:57.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:28:08.622] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=62.04, y=100.00, z=1000.05], dimensionLocationPath overworld
+[16May2025 23:28:08.622] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=62.04, y=100.00, z=1000.05] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:28:18.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:28:20.574] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=66.56, y=101.18, z=997.62]
+[16May2025 23:29:02.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=53.31, y=101.18, z=997.74], dimensionLocationPath overworld
+[16May2025 23:29:02.921] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=53.31, y=101.18, z=997.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:29:03.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=56.68, y=101.97, z=997.52]
+[16May2025 23:30:28.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.43, y=93.00, z=1001.19], dimensionLocationPath overworld
+[16May2025 23:30:28.524] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.43, y=93.00, z=1001.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:30:29.472] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.88, y=90.50, z=997.37]
+[16May2025 23:30:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> es macho F
+[16May2025 23:31:10.022] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=67.18, y=82.23, z=980.11], dimensionLocationPath overworld
+[16May2025 23:31:10.022] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=67.18, y=82.23, z=980.11] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:31:17.971] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.55, y=80.00, z=976.93]
+[16May2025 23:31:21.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=60.43, y=80.06, z=985.25], dimensionLocationPath overworld
+[16May2025 23:31:21.570] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=60.43, y=80.06, z=985.25] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:31:39.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=71.53, y=-23.00, z=-1956.36]
+[16May2025 23:31:40.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=71.73, y=-23.00, z=-1955.94], dimensionLocationPath overworld
+[16May2025 23:31:40.627] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=71.73, y=-23.00, z=-1955.94] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b52]
+[16May2025 23:31:40.974] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=71.74, y=-23.00, z=-1956.00]
+[16May2025 23:31:43.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=71.32, y=-22.78, z=-1956.68], dimensionLocationPath overworld
+[16May2025 23:31:43.624] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=71.32, y=-22.78, z=-1956.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@b52]
+[16May2025 23:32:10.172] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=46.44, y=77.00, z=976.95]
+[16May2025 23:32:15.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.66, y=79.00, z=974.99], dimensionLocationPath overworld
+[16May2025 23:32:15.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.66, y=79.00, z=974.99] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:32:23.722] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=59.61, y=74.00, z=964.73]
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.816] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.817] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:26.817] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:32:45.223] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=81.71, y=69.00, z=965.86], dimensionLocationPath overworld
+[16May2025 23:32:45.223] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=81.71, y=69.00, z=965.86] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:32:46.124] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=80.78, y=71.00, z=959.55]
+[16May2025 23:32:49.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:32:49.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:32:57.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:32:57.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:33:15.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=68.70, y=72.00, z=953.00], dimensionLocationPath overworld
+[16May2025 23:33:15.121] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=68.70, y=72.00, z=953.00] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:33:15.531] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=68.91, y=72.00, z=952.72]
+[16May2025 23:33:31.721] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=96.64, y=71.00, z=941.98], dimensionLocationPath overworld
+[16May2025 23:33:31.722] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=96.64, y=71.00, z=941.98] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:33:36.271] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=92.85, y=67.00, z=948.69]
+[16May2025 23:33:40.212] [Server thread/DEBUG] [mixin/]: Mixing alloc.enum_values.piston_handler.PistonHandlerMixin from lithium.mixins.json into net.minecraft.world.level.block.piston.PistonStructureResolver
+[16May2025 23:33:40.212] [Server thread/DEBUG] [mixin/]: lithium.mixins.json:alloc.enum_values.piston_handler.PistonHandlerMixin: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_16 supports class version 60)
+[16May2025 23:33:59.110] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/37011, l='ServerLevel[world]', x=70.68, y=-8.79, z=-1956.28], dimensionLocationPath overworld
+[16May2025 23:33:59.110] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/37011, l='ServerLevel[world]', x=70.68, y=-8.79, z=-1956.28] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:33:59.611] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/37011, l='ServerLevel[world]', x=71.34, y=-9.03, z=-1956.34, removed=DISCARDED]
+[16May2025 23:34:00.311] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/37013, l='ServerLevel[world]', x=71.54, y=-9.75, z=-1955.74], dimensionLocationPath overworld
+[16May2025 23:34:00.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/37013, l='ServerLevel[world]', x=71.54, y=-9.75, z=-1955.74] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:34:01.262] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/37013, l='ServerLevel[world]', x=71.13, y=-11.00, z=-1955.13, removed=DISCARDED]
+[16May2025 23:34:02.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.34, y=68.20, z=945.19], dimensionLocationPath overworld
+[16May2025 23:34:02.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.34, y=68.20, z=945.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:34:02.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.31, y=68.12, z=945.12]
+[16May2025 23:34:03.123] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.70, y=67.00, z=942.82], dimensionLocationPath overworld
+[16May2025 23:34:03.123] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.70, y=67.00, z=942.82] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:34:05.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> mistico
+[16May2025 23:34:06.325] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=94.69, y=67.00, z=940.71]
+[16May2025 23:34:09.522] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=96.63, y=67.00, z=940.67], dimensionLocationPath overworld
+[16May2025 23:34:09.523] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=96.63, y=67.00, z=940.67] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:34:35.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=97.45, y=68.00, z=940.68]
+[16May2025 23:34:35.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=96.28, y=68.00, z=940.70], dimensionLocationPath overworld
+[16May2025 23:34:35.822] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=96.28, y=68.00, z=940.70] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:34:37.025] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=92.65, y=67.00, z=941.76]
+[16May2025 23:34:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 23:35:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 23:35:39.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=99.63, y=67.00, z=942.88], dimensionLocationPath overworld
+[16May2025 23:35:39.322] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=99.63, y=67.00, z=942.88] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:35:39.472] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=99.56, y=67.00, z=942.46]
+[16May2025 23:35:52.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.50, y=67.00, z=941.54], dimensionLocationPath overworld
+[16May2025 23:35:52.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.50, y=67.00, z=941.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:35:52.231] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=93.28, y=67.00, z=942.10]
+[16May2025 23:36:15.012] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[16May2025 23:36:45.869] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_enhanced:large_dungeon/room2
+[16May2025 23:37:02.761] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/37959, l='ServerLevel[world]', x=63.34, y=-13.75, z=-1970.72], dimensionLocationPath overworld
+[16May2025 23:37:02.761] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/37959, l='ServerLevel[world]', x=63.34, y=-13.75, z=-1970.72] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:37:03.261] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/37959, l='ServerLevel[world]', x=63.93, y=-14.00, z=-1970.52, removed=DISCARDED]
+[16May2025 23:37:04.662] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/37970, l='ServerLevel[world]', x=63.58, y=-13.70, z=-1971.64], dimensionLocationPath overworld
+[16May2025 23:37:04.662] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/37970, l='ServerLevel[world]', x=63.58, y=-13.70, z=-1971.64] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:37:05.161] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/37970, l='ServerLevel[world]', x=63.17, y=-13.94, z=-1971.65, removed=DISCARDED]
+[16May2025 23:37:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 23:37:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 23:37:40.401] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/walk
+[16May2025 23:37:40.402] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/walk_balustrade
+[16May2025 23:37:40.404] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower_balustrade
+[16May2025 23:37:40.405] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/hallway
+[16May2025 23:37:40.406] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/room
+[16May2025 23:37:40.410] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower
+[16May2025 23:37:40.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/stairs
+[16May2025 23:37:40.411] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/wall
+[16May2025 23:37:40.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/passage
+[16May2025 23:37:40.412] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/door
+[16May2025 23:37:40.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/hallway_window
+[16May2025 23:37:40.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower_window
+[16May2025 23:37:40.415] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/hallway_entrance
+[16May2025 23:37:40.417] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/plains/pieces/tower_entrance
+[16May2025 23:37:40.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/library
+[16May2025 23:37:40.421] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/throne
+[16May2025 23:37:40.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/kitchen
+[16May2025 23:37:40.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/dinning
+[16May2025 23:37:40.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/enchanting
+[16May2025 23:37:40.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/hay_storage
+[16May2025 23:37:40.425] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/bed
+[16May2025 23:37:40.426] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/blacksmith
+[16May2025 23:37:40.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/alchemy
+[16May2025 23:37:40.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/cake
+[16May2025 23:37:40.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/jukebox
+[16May2025 23:37:40.428] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/storage
+[16May2025 23:37:40.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/food_storage
+[16May2025 23:37:40.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of castle_dungeons:illager_castle/common/rooms/coal_storage
+[16May2025 23:37:43.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhonny365 lost connection: Timed out
+[16May2025 23:37:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 left the game
+[16May2025 23:37:43.677] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=59.21, y=-14.00, z=-1977.17, removed=UNLOADED_WITH_PLAYER]
+[16May2025 23:37:57.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:37:57.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:38:09.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=230.02, y=69.00, z=967.24], dimensionLocationPath overworld
+[16May2025 23:38:09.370] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=230.02, y=69.00, z=967.24] in list []
+[16May2025 23:38:09.667] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=230.02, y=69.00, z=967.27]
+[16May2025 23:38:28.545] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:cartographer_tower/base
+[16May2025 23:38:28.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:cartographer_tower/top
+[16May2025 23:40:07.266] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=261.83, y=67.00, z=960.03], dimensionLocationPath overworld
+[16May2025 23:40:07.266] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=261.83, y=67.00, z=960.03] in list []
+[16May2025 23:40:07.317] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=261.82, y=67.00, z=960.03]
+[16May2025 23:41:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Who You Gonna Call?]
+[16May2025 23:42:31.495] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[16May2025 23:42:31.528] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[16May2025 23:42:31.549] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[16May2025 23:42:46.011] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[16May2025 23:42:57.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:42:57.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:44:05.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=298.96, y=63.00, z=1000.00], dimensionLocationPath overworld
+[16May2025 23:44:05.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=298.96, y=63.00, z=1000.00] in list []
+[16May2025 23:44:06.466] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=299.18, y=63.00, z=999.80]
+[16May2025 23:44:39.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Timed out
+[16May2025 23:44:39.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[16May2025 23:44:53.331] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 35 messages to dispatch.
+[16May2025 23:44:53.369] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[16May2025 23:44:53.420] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[16May2025 23:44:53.467] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[16May2025 23:44:53.519] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[16May2025 23:44:53.566] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [totw_modded, weaponmaster_ydm, betterdungeons, kuma_api, betterwitchhuts, ancient_elements, nethervillagertrader, playeranimator, naturalist, betteroceanmonuments, dynamiclights, stalwart_dungeons, incendium, sophisticatedcore, structureessentials, modernfix, citadel, yungsapi, mixinextras, sophisticatedbackpacks, medievalend, pickupnotifier, medieval_buildings, balm, carryon, projectile_damage, betterfortresses, paraglider, cloth_config, ironbows, embeddium, rubidium, embeddiumplus, structure_gel, corpse, repurposed_structures, lolenderite, dungeons_plus, eeeabsmobs, yungsbridges, lionfishapi, dungeons_enhanced, cataclysm, curios, oculus, craftableenchantedgoldenapple, cerbons_api, yungsextras, mr_dungeons_andtaverns, bettervillage, betterstrongholds, inventoryprofilesnext, architectury, cupboard, itemphysic, betterendisland, framework, strayed_fates_forsaken, disenchanting, bettermineshafts, playerrevive, betterjungletemples, betteradvancements, soulsweapons, radium, mowziesmobs, geckolib, wi_zoom, too_many_bows, formationsnether, awesomedungeonend, easymagic, jei, visualworkbench, attributefix, libraryferret, goblintraders, obscure_api, waystones, epicfight, structory, clumps, journeymap, dungeonnowloading, awesomedungeon, yungscavebiomes, naturescompass, dungeoncrawl, knightlib, glitchcore, starlight, betterdeserttemples, hopour, explorerscompass, iceandfire, bosses_of_mass_destruction, terralith, memoryleakfix, formations, puzzlesaccessapi, skinlayers3d, dungeons_arise_seven_seas, forge, castle_dungeons, dungeons_arise, awesomedungeonocean, hearths, formationsoverworld, minecraft, oceanvillagertrader, simplyswords, libipn, terrablender, biomesoplenty, bettercombat, awesomedungeonnether, totw_additions, jade, knightquest, hoporp, creativecore, kotlinforforge, jeiintegration, lolgilded, securitycraft, entityculling, inventoryhud, immediatelyfast, structory_towers, mvs, appleskin, ferritecore, puzzleslib, immersive_melodies, aquamirae]
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'structure_gel:main' : Version test of '7' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'eeeabsmobs:net' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'itemphysic:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.567] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bettercombat:network' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '2.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pickupnotifier:1' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ancient_elements:ancient_elements' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'stalwart_dungeons:stalwart_dungeons' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'soulsweapons:messages' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'obscure_api:obscure_api' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nethervillagertrader:nethervillagertrader' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'explorerscompass:explorerscompass' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquamirae:main' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'yungscavebiomes:messages' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'oceanvillagertrader:oceanvillagertrader' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[16May2025 23:44:53.568] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[16May2025 23:44:53.610] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[16May2025 23:44:53.610] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:53.610] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:53.620] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[16May2025 23:44:53.668] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[16May2025 23:44:53.699] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[16May2025 23:44:53.700] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:53.700] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:53.718] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[16May2025 23:44:53.767] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[16May2025 23:44:53.819] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[16May2025 23:44:53.869] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 10
+[16May2025 23:44:53.920] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 11
+[16May2025 23:44:53.969] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 12
+[16May2025 23:44:54.020] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 13
+[16May2025 23:44:54.068] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 14
+[16May2025 23:44:54.116] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[16May2025 23:44:54.116] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:54.116] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:54.119] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[16May2025 23:44:54.169] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 16
+[16May2025 23:44:54.223] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 17
+[16May2025 23:44:54.272] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 18
+[16May2025 23:44:54.320] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[16May2025 23:44:54.355] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[16May2025 23:44:54.355] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:54.355] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:54.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[16May2025 23:44:54.367] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[16May2025 23:44:54.367] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:54.367] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:54.418] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[16May2025 23:44:54.471] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill' to 'fml:handshake' sequence 22
+[16May2025 23:44:54.523] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 23
+[16May2025 23:44:54.568] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 24
+[16May2025 23:44:54.621] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 25
+[16May2025 23:44:54.673] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 26
+[16May2025 23:44:54.721] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 27
+[16May2025 23:44:54.770] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config dungeonnowloading-server.toml' to 'fml:handshake' sequence 28
+[16May2025 23:44:54.817] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 29
+[16May2025 23:44:54.870] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pickupnotifier/pickupnotifier-server.toml' to 'fml:handshake' sequence 30
+[16May2025 23:44:54.921] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 31
+[16May2025 23:44:54.971] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 32
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.009] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.010] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[16May2025 23:44:55.010] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.010] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.010] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[16May2025 23:44:55.010] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.010] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 33
+[16May2025 23:44:55.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 34
+[16May2025 23:44:55.163] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[16May2025 23:44:55.163] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.163] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.203] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[16May2025 23:44:55.203] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.203] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.287] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[16May2025 23:44:55.287] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.287] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.287] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[16May2025 23:44:55.287] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.288] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.289] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[16May2025 23:44:55.289] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.289] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.290] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[16May2025 23:44:55.290] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.290] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.291] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[16May2025 23:44:55.291] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.291] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.462] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[16May2025 23:44:55.462] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.462] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.496] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[16May2025 23:44:55.496] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.496] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.496] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[16May2025 23:44:55.496] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.496] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.497] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[16May2025 23:44:55.497] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.497] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.497] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[16May2025 23:44:55.497] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.497] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.498] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[16May2025 23:44:55.499] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[16May2025 23:44:55.518] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[16May2025 23:44:55.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zhair16[/127.181.128.176:48891] logged in with entity id 39827 at (-155.5, 72.26636799395752, -513.5)
+[16May2025 23:44:55.582] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@6572461 into net.minecraft.network.Connection@350c5a07
+[16May2025 23:44:55.583] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 205 classes
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Start adding village structures
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/desert/houses'
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/plains/houses'
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/savanna/houses'
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Added 1 elements to template pool 'minecraft:village/snowy/houses'
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Added 2 elements to template pool 'minecraft:village/taiga/houses'
+[16May2025 23:44:55.583] [Server thread/DEBUG] [Paraglider/]: Finished adding village structures
+[16May2025 23:44:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 joined the game
+[16May2025 23:44:55.648] [Server thread/INFO] [Jade/]: Syncing config to Zhair16 (34818cb0-b42f-3347-a265-ff021e2f5383)
+[16May2025 23:45:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> AAAAAAAAAAAAA
+[16May2025 23:46:14.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=-171.64, y=69.00, z=-524.04], dimensionLocationPath overworld
+[16May2025 23:46:14.917] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=-171.64, y=69.00, z=-524.04] in list []
+[16May2025 23:46:23.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:46:31.019] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[16May2025 23:46:49.869] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=-167.86, y=69.00, z=-525.28]
+[16May2025 23:47:57.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:47:57.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:49:25.017] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[16May2025 23:51:45.017] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[16May2025 23:52:57.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:52:57.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:53:21.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40947, l='ServerLevel[world]', x=-132.55, y=65.40, z=-518.47] died, message: 'Unemployed tried to swim in lava'
+[16May2025 23:54:34.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=-182.82, y=69.00, z=-515.85], dimensionLocationPath overworld
+[16May2025 23:54:34.216] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=-182.82, y=69.00, z=-515.85] in list []
+[16May2025 23:54:34.568] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=-184.62, y=68.00, z=-516.22]
+[16May2025 23:55:20.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Disconnected
+[16May2025 23:55:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[16May2025 23:55:24.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[16May2025 23:55:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[16May2025 23:55:36.011] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[16May2025 23:55:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 23:55:47.211] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[16May2025 23:55:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 23:55:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 23:55:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 23:55:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 23:55:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 23:55:47.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 23:55:47.328] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:55:47.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:55:47.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 23:55:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 23:55:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 23:55:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 23:55:47.407] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16May2025 23:55:47.408] [Server thread/DEBUG] [Framework/]: Failed to unwatch config: /workspaces/Fantasy/servidor_minecraft/config/goblintraders-entities.toml
+java.lang.NullPointerException: Cannot read field "watchedFileCount" because "watchedDir" is null
+	at com.electronwill.nightconfig.core.file.FileWatcher.removeWatch(FileWatcher.java:134) ~[core-3.6.4.jar%2358!/:?]
+	at com.mrcrayfish.framework.config.ConfigWatcher.unwatch(ConfigWatcher.java:54) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lambda$unload$7(FrameworkConfigManager.java:399) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.lock(FrameworkConfigManager.java:534) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager$FrameworkConfigImpl.unload(FrameworkConfigManager.java:396) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.lambda$onServerStopped$7(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
+	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
+	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
+	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
+	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
+	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
+	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
+	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
+	at com.mrcrayfish.framework.config.FrameworkConfigManager.onServerStopped(FrameworkConfigManager.java:241) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$9(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at com.mrcrayfish.framework.api.event.ServerEvents.lambda$static$10(ServerEvents.java:23) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.ForgeEvents.onServerStopped(ForgeEvents.java:190) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at com.mrcrayfish.framework.event.__ForgeEvents_onServerStopped_ServerStoppedEvent.invoke(.dynamic) ~[framework-forge-1.20.1-0.7.12.jar%23277!/:1.20.1-0.7.12]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:133) ~[forge-1.20.1-47.3.0-universal.jar%23362!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:697) ~[server-1.20.1-20230612.114412-srg.jar%23357!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23357!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[16May2025 23:55:47.408] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16May2025 23:55:47.410] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[16May2025 23:55:47.410] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[16May2025 23:55:47.413] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

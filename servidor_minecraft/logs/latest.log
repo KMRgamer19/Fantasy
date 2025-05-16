@@ -928,3 +928,52 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 23:13:10.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has completed the challenge [Repair Crystal]
 [16May2025 23:21:33.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> seria justicia
 [16May2025 23:21:45.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> aunque no es el tipo que buscaba me sirve
+[16May2025 23:24:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> se tenia que romper el pico viva la verga
+[16May2025 23:25:01.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> como dicen hombre prevenido vale x2
+[16May2025 23:25:05.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[16May2025 23:25:05.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> por cierto en que andas
+[16May2025 23:25:15.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> su madre
+[16May2025 23:25:17.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a mi hermano lo estoy es salvando de su muerte
+[16May2025 23:25:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> lo escuche respirar
+[16May2025 23:25:28.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> que andan cazando
+[16May2025 23:25:39.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:25:41.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved wrongly!
+[16May2025 23:28:18.613] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:30:48.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> es macho F
+[16May2025 23:32:49.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:32:49.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:34:05.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> mistico
+[16May2025 23:34:46.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 23:35:03.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 23:37:06.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 23:37:30.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 23:37:43.634] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhonny365 lost connection: Timed out
+[16May2025 23:37:43.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 left the game
+[16May2025 23:41:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Who You Gonna Call?]
+[16May2025 23:44:39.519] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Timed out
+[16May2025 23:44:39.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[16May2025 23:44:55.582] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zhair16[/127.181.128.176:48891] logged in with entity id 39827 at (-155.5, 72.26636799395752, -513.5)
+[16May2025 23:44:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 joined the game
+[16May2025 23:44:55.648] [Server thread/INFO] [Jade/]: Syncing config to Zhair16 (34818cb0-b42f-3347-a265-ff021e2f5383)
+[16May2025 23:45:20.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> AAAAAAAAAAAAA
+[16May2025 23:46:23.910] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 23:53:21.465] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40947, l='ServerLevel[world]', x=-132.55, y=65.40, z=-518.47] died, message: 'Unemployed tried to swim in lava'
+[16May2025 23:55:20.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 lost connection: Disconnected
+[16May2025 23:55:20.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 left the game
+[16May2025 23:55:24.968] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[16May2025 23:55:24.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[16May2025 23:55:47.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 23:55:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 23:55:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 23:55:47.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 23:55:47.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 23:55:47.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 23:55:47.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 23:55:47.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 23:55:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 23:55:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 23:55:47.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 23:55:47.407] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16May2025 23:55:47.408] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16May2025 23:55:47.410] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[16May2025 23:55:47.413] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
