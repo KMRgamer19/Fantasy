@@ -904,3 +904,43 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 20:49:36.775] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
 [16May2025 20:49:49.523] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [16May2025 20:50:07.872] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:50:32.124] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[16May2025 20:51:26.372] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:56:30.370] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:57:40.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku lost connection: Disconnected
+[16May2025 20:57:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku left the game
+[16May2025 20:59:44.170] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 21:04:28.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has reached the goal [Abyssal Conqueror]
+[16May2025 21:06:04.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Tie me to the Mast]
+[16May2025 21:07:24.772] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 21:08:49.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was shot by Skeleton
+[16May2025 21:09:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was shot by Skeleton
+[16May2025 21:10:28.271] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 21:10:31.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was shot by Skeleton
+[16May2025 21:11:28.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [Cover Me with Diamonds]
+[16May2025 21:12:17.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 21:13:00.771] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 21:15:06.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [They Have a Cave Troll!]
+[16May2025 21:18:42.822] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 21:18:49.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has reached the goal [Cosmic Discoverer]
+[16May2025 21:23:34.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Safe Haven]
+[16May2025 21:24:00.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Call For Adventure]
+[16May2025 21:26:10.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] apurense
+[16May2025 21:27:08.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] apurense
+[16May2025 21:27:17.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] maten a ganster
+[16May2025 21:27:28.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] wider creator gasnter
+[16May2025 21:27:53.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[16May2025 21:27:53.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[16May2025 21:27:53.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[16May2025 21:27:53.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[16May2025 21:27:53.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16May2025 21:27:54.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16May2025 21:27:54.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16May2025 21:27:54.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16May2025 21:27:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16May2025 21:27:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16May2025 21:27:54.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16May2025 21:27:54.567] [Server thread/INFO] [Framework/]: Unloading server configs...
+[16May2025 21:27:54.568] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[16May2025 21:27:54.571] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[16May2025 21:27:54.576] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
