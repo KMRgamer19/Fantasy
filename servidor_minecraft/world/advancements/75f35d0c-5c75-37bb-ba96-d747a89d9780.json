@@ -5703,6 +5703,12 @@
     },
     "done": true
   },
+  "too_many_bows:repair_crystal": {
+    "criteria": {
+      "get_repair": "2025-05-16 23:13:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-05-16 22:55:58 +0000"
