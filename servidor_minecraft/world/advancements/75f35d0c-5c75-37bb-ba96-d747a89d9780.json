@@ -133,7 +133,8 @@
       "minecraft:forest": "2025-05-13 18:02:16 +0000",
       "minecraft:lush_caves": "2025-05-13 19:07:31 +0000",
       "minecraft:ice_spikes": "2025-05-14 02:05:22 +0000",
-      "minecraft:snowy_beach": "2025-05-14 02:12:11 +0000"
+      "minecraft:snowy_beach": "2025-05-14 02:12:11 +0000",
+      "minecraft:plains": "2025-05-16 00:37:25 +0000"
     },
     "done": false
   },
@@ -3505,6 +3506,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-05-14 02:00:31 +0000",
+      "pillager_outpost": "2025-05-16 00:39:48 +0000",
       "illager_camp": "2025-05-14 01:52:49 +0000"
     },
     "done": false
@@ -4058,6 +4060,7 @@
       "emerald_sage_bow": "2025-05-15 16:22:05 +0000",
       "demons_grasp": "2025-05-16 00:15:00 +0000",
       "scatter_bow": "2025-05-15 17:07:33 +0000",
+      "cyroheart_bow": "2025-05-16 00:40:29 +0000",
       "solar_bow": "2025-05-15 17:10:39 +0000"
     },
     "done": false
@@ -4860,9 +4863,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
+    },
+    "done": true
+  },
   "too_many_bows:ancient_sage": {
     "criteria": {
       "get_ancient_sage": "2025-05-15 23:32:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-05-16 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-16 00:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
     },
     "done": true
   },
@@ -4890,6 +4923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-05-15 23:32:09 +0000"
@@ -4899,6 +4938,12 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
     },
     "done": true
   },
@@ -4914,6 +4959,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-05-16 00:28:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
@@ -4923,6 +4980,12 @@
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-05-16 00:14:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
     },
     "done": true
   },
@@ -5016,6 +5079,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-05-16 00:30:30 +0000"
+    },
+    "done": true
+  },
   "immersive_melodies:misc/instruments": {
     "criteria": {
       "has_item": "2025-05-15 23:32:09 +0000"
@@ -5031,6 +5100,12 @@
   "sophisticatedbackpacks:recipes/misc/anvil_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-05-16 00:30:30 +0000"
     },
     "done": true
   },
@@ -5160,15 +5235,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-05-16 00:30:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2025-05-15 23:38:00 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-05-16 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-05-16 00:30:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-05-16 00:39:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-05-15 23:28:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-16 00:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
     },
     "done": true
   },
@@ -5196,9 +5307,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-16 00:41:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-05-16 00:39:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_owner_changer": {
     "criteria": {
       "has_name_tag": "2025-05-16 00:25:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-16 00:39:48 +0000"
     },
     "done": true
   },
