@@ -789,6 +789,7 @@
       "apple": "2025-05-13 21:02:59 +0000",
       "pumpkin_pie": "2025-05-14 03:11:49 +0000",
       "bread": "2025-05-14 02:55:34 +0000",
+      "golden_apple": "2025-05-16 00:18:33 +0000",
       "cookie": "2025-05-13 21:10:43 +0000",
       "suspicious_stew": "2025-05-13 22:07:01 +0000",
       "enchanted_golden_apple": "2025-05-13 19:14:03 +0000",
@@ -5192,6 +5193,12 @@
   "sophisticatedbackpacks:recipes/misc/tool_swapper_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-05-15 22:58:35 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-16 00:25:31 +0000"
     },
     "done": true
   },
