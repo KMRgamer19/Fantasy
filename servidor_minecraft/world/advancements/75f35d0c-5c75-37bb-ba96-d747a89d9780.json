@@ -5673,6 +5673,12 @@
     },
     "done": true
   },
+  "ancient_elements:miners_nightmare": {
+    "criteria": {
+      "miners_nightmare": "2025-05-16 23:09:06 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/decorations/chungus_monolith": {
     "criteria": {
       "has_item": "2025-05-16 23:00:09 +0000"
@@ -5706,6 +5712,12 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-05-16 22:44:47 +0000"
+    },
+    "done": true
+  },
+  "ancient_elements:from_ancient_times": {
+    "criteria": {
+      "from_ancient_times": "2025-05-16 23:09:46 +0000"
     },
     "done": true
   },
