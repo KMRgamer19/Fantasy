@@ -883,3 +883,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 22:21:58.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> yo no ando en la casa
 [16May2025 22:21:59.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
 [16May2025 22:22:08.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> pero alla se la pasa mas la gente
+[16May2025 22:22:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 22:22:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 22:24:58.367] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=53, y=77, z=-2171}
+[16May2025 22:27:13.414] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:27:58.325] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-13, y=77, z=-2221}
+[16May2025 22:29:35.718] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12570, l='ServerLevel[world]', x=24.52, y=22.00, z=-2211.56] died, message: 'Unemployed hit the ground too hard'
+[16May2025 22:31:06.620] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12567, l='ServerLevel[world]', x=21.30, y=83.00, z=-2212.50] died, message: 'Unemployed was slain by Zombie'
+[16May2025 22:31:09.819] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12568, l='ServerLevel[world]', x=21.30, y=83.00, z=-2211.56] died, message: 'Unemployed was slain by Zombie'
+[16May2025 22:34:48.614] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:35:26.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 was killed by Area Effect Cloud using magic
+[16May2025 22:39:09.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:39:33.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Dragon Growth Hormone]
+[16May2025 22:41:19.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 22:41:34.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 22:42:20.664] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:42:54.264] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:44:47.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has reached the goal [Half a flight]
+[16May2025 22:45:38.863] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:46:45.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-230, y=-19, z=-1790} but found not block entity block Block{minecraft:cave_air} at location
+[16May2025 22:46:45.324] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-230, y=-19, z=-1790}
+[16May2025 22:48:23.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[16May2025 22:48:37.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[16May2025 22:49:15.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 22:49:46.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Zhair16> WWWWWWWWWEDDWAS
+[16May2025 22:52:32.120] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[16May2025 22:52:32.120] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 11 carrot
+[16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 totem_of_undying
+[16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
