@@ -854,3 +854,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 19:24:14.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.181.128.176:34823] logged in with entity id 123 at (-149.90741604935198, 68.0, -517.4361867831976)
 [16May2025 19:24:14.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
 [16May2025 19:24:14.382] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
+[16May2025 19:29:24.721] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 19:30:42.627] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1209, l='ServerLevel[world]', x=-132.59, y=65.52, z=-518.49] died, message: 'Unemployed tried to swim in lava'
+[16May2025 19:31:24.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jhonny365[/127.50.225.15:34009] logged in with entity id 1509 at (257.3078170780218, 68.0, -294.3898915822339)
+[16May2025 19:31:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 joined the game
+[16May2025 19:31:24.294] [Server thread/INFO] [Jade/]: Syncing config to jhonny365 (75f35d0c-5c75-37bb-ba96-d747a89d9780)
+[16May2025 19:34:36.321] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 19:37:44.728] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3612, l='ServerLevel[world]', x=-131.92, y=65.72, z=-518.33] died, message: 'Unemployed tried to swim in lava'
