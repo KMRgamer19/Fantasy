@@ -887,3 +887,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 20:18:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> te saco de discrod
 [16May2025 20:20:41.270] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [16May2025 20:23:11.986] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18733, l='ServerLevel[world]', x=-132.61, y=65.32, z=-518.51] died, message: 'Unemployed tried to swim in lava'
+[16May2025 20:31:11.390] [Worker-Main-25/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[16May2025 20:31:46.505] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16May2025 20:31:46.505] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16May2025 20:31:46.505] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16May2025 20:31:46.505] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16May2025 20:31:46.506] [Worker-Main-26/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[16May2025 20:35:47.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Vindicator
+[16May2025 20:36:46.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Vindicator

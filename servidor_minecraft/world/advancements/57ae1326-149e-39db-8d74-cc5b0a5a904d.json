@@ -89,7 +89,9 @@
       "field": "2025-05-13 18:01:48 +0000",
       "coniferous_forest": "2025-05-15 17:53:58 +0000",
       "forested_field": "2025-05-13 17:50:38 +0000",
+      "seasonal_orchard": "2025-05-16 20:31:40 +0000",
       "seasonal_forest": "2025-05-13 20:20:42 +0000",
+      "pumpkin_patch": "2025-05-16 20:31:11 +0000",
       "snowy_coniferous_forest": "2025-05-13 17:53:15 +0000",
       "snowy_fir_clearing": "2025-05-13 18:37:29 +0000",
       "glowing_grotto": "2025-05-13 18:44:33 +0000",
@@ -650,8 +652,10 @@
       "minecraft:vindicator": "2025-05-13 19:42:35 +0000",
       "minecraft:spider": "2025-05-13 17:55:35 +0000",
       "minecraft:creeper": "2025-05-14 20:11:10 +0000",
+      "minecraft:evoker": "2025-05-16 20:37:22 +0000",
       "minecraft:phantom": "2025-05-14 20:10:16 +0000",
       "minecraft:witch": "2025-05-13 18:19:41 +0000",
+      "minecraft:vex": "2025-05-16 20:37:19 +0000",
       "minecraft:zombie": "2025-05-13 18:00:02 +0000",
       "minecraft:drowned": "2025-05-14 20:05:09 +0000",
       "minecraft:zombie_villager": "2025-05-15 16:15:26 +0000"
@@ -928,11 +932,13 @@
       "sweet_berries": "2025-05-13 19:38:49 +0000",
       "cooked_beef": "2025-05-15 17:02:01 +0000",
       "baked_potato": "2025-05-13 18:25:47 +0000",
+      "cooked_cod": "2025-05-16 20:33:17 +0000",
       "bread": "2025-05-13 18:13:10 +0000",
       "golden_apple": "2025-05-13 18:03:04 +0000",
       "melon_slice": "2025-05-13 20:01:19 +0000",
       "golden_carrot": "2025-05-15 16:26:05 +0000",
-      "cooked_rabbit": "2025-05-15 16:32:10 +0000"
+      "cooked_rabbit": "2025-05-15 16:32:10 +0000",
+      "cooked_salmon": "2025-05-16 20:32:49 +0000"
     },
     "done": false
   },
@@ -4306,6 +4312,78 @@
   "paraglider:recipes/misc/cosmetic/paraglider": {
     "criteria": {
       "has_paragliders": "2025-05-15 17:49:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-05-16 20:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-05-16 20:38:09 +0000"
     },
     "done": true
   },

@@ -5509,6 +5509,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-05-16 20:26:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-05-16 20:05:46 +0000"
