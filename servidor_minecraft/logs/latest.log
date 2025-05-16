@@ -869,3 +869,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 19:44:58.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
 [16May2025 19:45:04.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
 [16May2025 19:45:11.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/4907, l='ServerLevel[world]', x=-173.50, y=68.00, z=-518.70] died, message: 'Librarian was slain by Zombie'
+[16May2025 20:01:37.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/9434, l='ServerLevel[world]', x=-181.50, y=68.00, z=-518.70] died, message: 'Librarian was slain by Zombie'
+[16May2025 20:02:52.521] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:05:46.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [The Song of the Dragons]
+[16May2025 20:06:39.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [An Ear-Shattering Roar]
+[16May2025 20:11:26.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/13999, l='ServerLevel[world]', x=-132.54, y=65.63, z=-518.51] died, message: 'Unemployed tried to swim in lava'
+[16May2025 20:12:02.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Dragon Commander]
+[16May2025 20:12:33.019] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:13:14.671] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:14:16.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/14415, l='ServerLevel[world]', x=-171.49, y=68.00, z=-518.70] died, message: 'Librarian was slain by Zombie'
+[16May2025 20:14:28.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Splintering II]
+[16May2025 20:14:32.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [A Flaming Sword]
+[16May2025 20:18:45.371] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[16May2025 20:18:45.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.124.94.212:37509] logged in with entity id 16317 at (-1083.300000011921, 64.0, 39.30000001192093)
+[16May2025 20:18:45.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
+[16May2025 20:18:45.544] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[16May2025 20:18:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> te saco de discrod
