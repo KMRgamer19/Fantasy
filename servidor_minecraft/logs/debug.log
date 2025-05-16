@@ -12149,3 +12149,380 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 11 carrot
 [16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 totem_of_undying
 [16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[16May2025 22:52:47.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=67.11, y=68.00, z=970.32], dimensionLocationPath overworld
+[16May2025 22:52:47.731] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=67.11, y=68.00, z=970.32] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:52:47.830] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=66.78, y=68.00, z=970.57]
+[16May2025 22:52:48.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=66.06, y=68.00, z=969.16], dimensionLocationPath overworld
+[16May2025 22:52:48.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=66.06, y=68.00, z=969.16] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:52:48.729] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=66.16, y=68.00, z=968.96]
+[16May2025 22:52:57.737] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 22:52:57.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 22:52:58.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set the time to 1000]
+[16May2025 22:53:18.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 moved wrongly!
+[16May2025 22:53:29.460] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-324 | 38 | -1792)
+[16May2025 22:53:29.460] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-324 | 38 | -1792)
+[16May2025 22:53:29.460] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-305 | 38 | -1792)
+[16May2025 22:53:29.460] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-305 | 38 | -1792)
+[16May2025 22:53:29.479] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-324 | 38 | -1810)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-324 | 38 | -1810)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-318 | 38 | -1798)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant_2 with rotation CLOCKWISE_90 at (-318 | 38 | -1798)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-323 | 38 | -1801)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation CLOCKWISE_90 at (-323 | 38 | -1801)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-315 | 38 | -1809)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-315 | 38 | -1809)
+[16May2025 22:53:29.481] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation NONE at (-310 | 38 | -1814)
+[16May2025 22:53:29.482] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation NONE at (-310 | 38 | -1814)
+[16May2025 22:53:29.482] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-310 | 2 | -1823)
+[16May2025 22:53:29.482] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-310 | 2 | -1823)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 47 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 47 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 48 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 48 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 49 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 49 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 50 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 50 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 51 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 51 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 52 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 52 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 53 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 53 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 54 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 54 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 55 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 55 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 56 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 56 | -1826)
+[16May2025 22:53:29.493] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 57 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 57 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 58 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 58 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 59 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 59 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 60 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 60 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 61 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 61 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 62 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 62 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 63 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 63 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 64 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 64 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 65 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 65 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 66 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 66 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 67 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 67 | -1826)
+[16May2025 22:53:29.494] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-326 | 68 | -1830)
+[16May2025 22:53:29.495] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-326 | 68 | -1830)
+[16May2025 22:53:29.495] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-324 | 38 | -1828)
+[16May2025 22:53:29.495] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-324 | 38 | -1828)
+[16May2025 22:53:29.495] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-323 | 38 | -1819)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_2 with rotation CLOCKWISE_90 at (-323 | 38 | -1819)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-324 | 38 | -1810)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room_2 with rotation NONE at (-324 | 38 | -1810)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-315 | 38 | -1809)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-315 | 38 | -1809)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fire_hall with rotation NONE at (-310 | 38 | -1814)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fire_hall with rotation NONE at (-310 | 38 | -1814)
+[16May2025 22:53:29.496] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation COUNTERCLOCKWISE_90 at (-324 | 2 | -1828)
+[16May2025 22:53:29.497] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation COUNTERCLOCKWISE_90 at (-324 | 2 | -1828)
+[16May2025 22:53:29.499] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker_4 with rotation CLOCKWISE_180 at (-324 | 2 | -1819)
+[16May2025 22:53:29.499] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker_4 with rotation CLOCKWISE_180 at (-324 | 2 | -1819)
+[16May2025 22:53:29.499] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-315 | 2 | -1818)
+[16May2025 22:53:29.500] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-315 | 2 | -1818)
+[16May2025 22:53:29.500] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-310 | 2 | -1823)
+[16May2025 22:53:29.500] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-310 | 2 | -1823)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 47 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 47 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 48 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 48 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 49 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 49 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 50 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 50 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 51 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 51 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 52 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 52 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 53 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 53 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 54 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 54 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 55 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 55 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 56 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 56 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 57 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 57 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 58 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 58 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 59 | -1826)
+[16May2025 22:53:29.511] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 59 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 60 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 60 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 61 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 61 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 62 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 62 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 63 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 63 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 64 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_90 at (-322 | 64 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 65 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation CLOCKWISE_180 at (-322 | 65 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 66 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation COUNTERCLOCKWISE_90 at (-322 | 66 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 67 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/staircase_layer with rotation NONE at (-322 | 67 | -1826)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-326 | 68 | -1830)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:entrance/roguelike/witch_tower with rotation CLOCKWISE_90 at (-326 | 68 | -1830)
+[16May2025 22:53:29.512] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (-318 | 38 | -1844)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (-318 | 38 | -1844)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (-323 | 38 | -1846)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (-323 | 38 | -1846)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-324 | 38 | -1837)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/linker/linker with rotation COUNTERCLOCKWISE_90 at (-324 | 38 | -1837)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/stairs_bottom with rotation NONE at (-324 | 38 | -1828)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/stairs_bottom with rotation NONE at (-324 | 38 | -1828)
+[16May2025 22:53:29.513] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/starter_room with rotation NONE at (-315 | 38 | -1837)
+[16May2025 22:53:29.514] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/starter_room with rotation NONE at (-315 | 38 | -1837)
+[16May2025 22:53:29.514] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation COUNTERCLOCKWISE_90 at (-324 | 2 | -1828)
+[16May2025 22:53:29.514] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation COUNTERCLOCKWISE_90 at (-324 | 2 | -1828)
+[16May2025 22:53:29.530] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-322 | 38 | -1851)
+[16May2025 22:53:29.530] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector with rotation COUNTERCLOCKWISE_90 at (-322 | 38 | -1851)
+[16May2025 22:53:29.530] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-328 | 38 | -1868)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-328 | 38 | -1868)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/light with rotation COUNTERCLOCKWISE_90 at (-321 | 43 | -1843)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/light with rotation COUNTERCLOCKWISE_90 at (-321 | 43 | -1843)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (-318 | 38 | -1844)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest_room with rotation CLOCKWISE_90 at (-318 | 38 | -1844)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (-323 | 38 | -1846)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor_light with rotation COUNTERCLOCKWISE_90 at (-323 | 38 | -1846)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-326 | 29 | -1866)
+[16May2025 22:53:29.531] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-326 | 29 | -1866)
+[16May2025 22:53:29.554] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-328 | 38 | -1868)
+[16May2025 22:53:29.554] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-328 | 38 | -1868)
+[16May2025 22:53:29.554] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-322 | 29 | -1868)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-322 | 29 | -1868)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-313 | 29 | -1862)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation NONE at (-313 | 29 | -1862)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-323 | 29 | -1873)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-323 | 29 | -1873)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-311 | 29 | -1862)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_180 at (-311 | 29 | -1862)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-326 | 29 | -1866)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_180 at (-326 | 29 | -1866)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-306 | 29 | -1863)
+[16May2025 22:53:29.555] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-306 | 29 | -1863)
+[16May2025 22:53:29.560] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-323 | 29 | -1878)
+[16May2025 22:53:29.560] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation COUNTERCLOCKWISE_90 at (-323 | 29 | -1878)
+[16May2025 22:53:29.560] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-328 | 29 | -1895)
+[16May2025 22:53:29.560] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-328 | 29 | -1895)
+[16May2025 22:53:29.560] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-323 | 29 | -1873)
+[16May2025 22:53:29.560] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_2 with rotation CLOCKWISE_90 at (-323 | 29 | -1873)
+[16May2025 22:53:29.611] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-328 | 29 | -1895)
+[16May2025 22:53:29.612] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation COUNTERCLOCKWISE_90 at (-328 | 29 | -1895)
+[16May2025 22:53:29.698] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[16May2025 22:53:29.857] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-312 | 2 | -1754)
+[16May2025 22:53:29.857] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation NONE at (-312 | 2 | -1754)
+[16May2025 22:53:29.858] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-311 | 2 | -1755)
+[16May2025 22:53:29.858] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-311 | 2 | -1755)
+[16May2025 22:53:29.858] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-327 | 2 | -1759)
+[16May2025 22:53:29.863] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (-327 | 2 | -1759)
+[16May2025 22:53:29.863] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-306 | 2 | -1755)
+[16May2025 22:53:29.863] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-306 | 2 | -1755)
+[16May2025 22:53:29.879] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-308 | 38 | -1776)
+[16May2025 22:53:29.879] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (-308 | 38 | -1776)
+[16May2025 22:53:53.010] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[16May2025 22:54:22.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Cool, Cool Cave]
+[16May2025 22:54:27.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Cool, Cool Cave]
+[16May2025 22:54:48.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=62.26, y=69.00, z=975.53], dimensionLocationPath overworld
+[16May2025 22:54:48.576] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=62.26, y=69.00, z=975.53] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:54:52.573] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=54.81, y=69.00, z=975.43]
+[16May2025 22:56:08.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=71.13, y=69.00, z=987.22], dimensionLocationPath overworld
+[16May2025 22:56:08.027] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=71.13, y=69.00, z=987.22] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:56:08.324] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=71.34, y=69.00, z=988.00]
+[16May2025 22:56:57.028] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.63, y=69.00, z=988.48], dimensionLocationPath overworld
+[16May2025 22:56:57.028] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.63, y=69.00, z=988.48] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:56:57.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.30, y=69.00, z=987.13]
+[16May2025 22:57:57.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 22:57:57.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 22:58:24.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.14, y=69.00, z=982.18], dimensionLocationPath overworld
+[16May2025 22:58:24.728] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.14, y=69.00, z=982.18] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:58:24.773] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.14, y=69.00, z=982.18]
+[16May2025 22:58:26.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.14, y=69.00, z=982.18], dimensionLocationPath overworld
+[16May2025 22:58:26.031] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.14, y=69.00, z=982.18] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:58:26.164] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=70.14, y=69.00, z=982.18]
+[16May2025 22:58:44.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=54.30, y=69.00, z=975.44], dimensionLocationPath overworld
+[16May2025 22:58:44.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=54.30, y=69.00, z=975.44] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:58:47.010] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[16May2025 22:58:54.674] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=52.80, y=69.00, z=989.08]
+[16May2025 22:59:39.782] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.49, y=69.00, z=990.19], dimensionLocationPath overworld
+[16May2025 22:59:39.782] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=50.49, y=69.00, z=990.19] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:59:41.678] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.87, y=69.00, z=993.49]
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.824] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:41.825] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.820] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:42.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:48.832] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=57.95, y=-30.00, z=-1754.10]
+[16May2025 22:59:50.710] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/25582, l='ServerLevel[world]', x=58.53, y=-28.67, z=-1752.50], dimensionLocationPath overworld
+[16May2025 22:59:50.711] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/25582, l='ServerLevel[world]', x=58.53, y=-28.67, z=-1752.50] in list []
+[16May2025 22:59:51.211] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/25582, l='ServerLevel[world]', x=57.77, y=-28.91, z=-1752.98, removed=DISCARDED]
+[16May2025 22:59:53.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=58.76, y=-29.00, z=-1753.04], dimensionLocationPath overworld
+[16May2025 22:59:53.377] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/117, l='ServerLevel[world]', x=58.76, y=-29.00, z=-1753.04] in list []
+[16May2025 22:59:59.623] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=46.49, y=69.00, z=999.50], dimensionLocationPath overworld
+[16May2025 22:59:59.623] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=46.49, y=69.00, z=999.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.821] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.822] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 22:59:59.823] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:03.229] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=45.52, y=69.92, z=999.37]
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.026] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:17.027] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.117] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:34.118] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[16May2025 23:00:39.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.63, y=69.00, z=1000.46], dimensionLocationPath overworld
+[16May2025 23:00:39.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.63, y=69.00, z=1000.46] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:00:39.376] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.69, y=69.00, z=1000.67]
+[16May2025 23:00:40.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.75, y=69.00, z=1000.92], dimensionLocationPath overworld
+[16May2025 23:00:40.473] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.75, y=69.00, z=1000.92] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:00:41.026] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.75, y=69.00, z=1000.92]
+[16May2025 23:00:56.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.88, y=69.00, z=1004.10], dimensionLocationPath overworld
+[16May2025 23:00:56.277] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.88, y=69.00, z=1004.10] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:00:56.424] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=44.88, y=69.00, z=1004.10]
+[16May2025 23:00:57.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=45.84, y=69.00, z=1004.58], dimensionLocationPath overworld
+[16May2025 23:00:57.383] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=45.84, y=69.00, z=1004.58] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:01:00.430] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=49.94, y=69.00, z=1004.84]
+[16May2025 23:02:18.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.60, y=69.00, z=1006.14], dimensionLocationPath overworld
+[16May2025 23:02:18.474] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.60, y=69.00, z=1006.14] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:02:18.778] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=63.70, y=69.00, z=1007.05]
+[16May2025 23:02:34.284] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=55.83, y=69.00, z=1006.50], dimensionLocationPath overworld
+[16May2025 23:02:34.284] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=55.83, y=69.00, z=1006.50] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:02:34.329] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=55.84, y=69.00, z=1006.72]
+[16May2025 23:02:34.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=55.97, y=69.00, z=1008.22], dimensionLocationPath overworld
+[16May2025 23:02:34.825] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=55.97, y=69.00, z=1008.22] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:02:48.177] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.85, y=74.00, z=1010.76]
+[16May2025 23:02:49.678] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.84, y=74.00, z=1010.68], dimensionLocationPath overworld
+[16May2025 23:02:49.678] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.84, y=74.00, z=1010.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:02:49.975] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.84, y=74.00, z=1010.68]
+[16May2025 23:02:50.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.84, y=74.00, z=1010.68], dimensionLocationPath overworld
+[16May2025 23:02:50.577] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.84, y=74.00, z=1010.68] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:02:52.226] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=58.71, y=74.00, z=1010.28]
+[16May2025 23:02:57.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16May2025 23:02:57.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16May2025 23:03:06.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=59.37, y=72.72, z=1009.69], dimensionLocationPath overworld
+[16May2025 23:03:06.374] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=59.37, y=72.72, z=1009.69] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@75]
+[16May2025 23:03:06.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/2898, l='ServerLevel[world]', x=59.38, y=72.27, z=1009.69]

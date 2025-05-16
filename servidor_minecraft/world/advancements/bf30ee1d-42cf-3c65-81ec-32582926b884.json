@@ -627,6 +627,7 @@
       "minecraft:vindicator": "2025-05-07 21:33:13 +0000",
       "minecraft:spider": "2025-05-07 19:02:12 +0000",
       "minecraft:creeper": "2025-05-07 19:30:57 +0000",
+      "minecraft:evoker": "2025-05-16 22:59:44 +0000",
       "minecraft:zombified_piglin": "2025-05-14 04:55:18 +0000",
       "minecraft:witch": "2025-05-08 00:08:03 +0000",
       "minecraft:wither_skeleton": "2025-05-07 20:34:23 +0000",
@@ -1012,6 +1013,7 @@
       "minecraft:forest": "2025-05-07 22:41:20 +0000",
       "minecraft:lush_caves": "2025-05-10 02:50:44 +0000",
       "minecraft:frozen_ocean": "2025-05-16 00:50:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-05-16 22:48:28 +0000",
       "minecraft:snowy_beach": "2025-05-16 00:41:13 +0000",
       "minecraft:plains": "2025-05-10 23:19:26 +0000"
     },
@@ -6166,6 +6168,12 @@
   "knightquest:recipes/misc/phantom_boots": {
     "criteria": {
       "has_cyan_bed": "2025-05-16 22:28:37 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-05-16 22:54:22 +0000"
     },
     "done": true
   },

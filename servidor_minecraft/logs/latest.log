@@ -912,3 +912,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 11 carrot
 [16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 totem_of_undying
 [16May2025 22:52:32.121] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 7 | client: 0
+[16May2025 22:52:58.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set the time to 1000]
+[16May2025 22:53:18.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zhair16 moved wrongly!
+[16May2025 22:54:22.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has made the advancement [Cool, Cool Cave]
+[16May2025 22:54:27.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zhair16 has made the advancement [Cool, Cool Cave]
