@@ -12034,3 +12034,174 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 20:00:30.549] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=41.30, y=70.00, z=133.67] in list []
 [17May2025 20:00:31.048] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=41.40, y=70.00, z=132.25]
 [17May2025 20:00:45.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> qe consiquio
+[17May2025 20:01:59.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has completed the challenge [Steeped in Strength]
+[17May2025 20:02:16.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> vamos por ootro
+[17May2025 20:02:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> y el loot?
+[17May2025 20:02:24.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> donde anda
+[17May2025 20:02:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> lo tengo yo
+[17May2025 20:02:48.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a
+[17May2025 20:02:49.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si lo mato me la da a mi
+[17May2025 20:02:54.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> dame chance compro algo
+[17May2025 20:03:03.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> lo peor es que solo hiba opr mi
+[17May2025 20:03:40.547] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.27, y=79.00, z=133.63], dimensionLocationPath overworld
+[17May2025 20:03:40.547] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.27, y=79.00, z=133.63] in list []
+[17May2025 20:03:40.748] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.27, y=79.00, z=133.63]
+[17May2025 20:03:44.200] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.27, y=79.00, z=133.63], dimensionLocationPath overworld
+[17May2025 20:03:44.200] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.27, y=79.00, z=133.63] in list []
+[17May2025 20:03:44.696] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.27, y=79.00, z=133.63]
+[17May2025 20:04:14.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 20:04:14.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 20:04:25.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.33, y=79.00, z=133.20], dimensionLocationPath overworld
+[17May2025 20:04:25.096] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=31.33, y=79.00, z=133.20] in list []
+[17May2025 20:04:25.497] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=30.99, y=79.00, z=133.69]
+[17May2025 20:05:01.297] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=70.07, y=81.00, z=131.05], dimensionLocationPath overworld
+[17May2025 20:05:01.297] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=70.07, y=81.00, z=131.05] in list []
+[17May2025 20:05:01.647] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=70.07, y=81.00, z=131.05]
+[17May2025 20:05:27.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=61.19, y=81.25, z=130.64], dimensionLocationPath overworld
+[17May2025 20:05:27.997] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=61.19, y=81.25, z=130.64] in list []
+[17May2025 20:05:28.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=61.05, y=81.18, z=130.70]
+[17May2025 20:05:28.600] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=59.37, y=81.00, z=131.53], dimensionLocationPath overworld
+[17May2025 20:05:28.600] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=59.37, y=81.00, z=131.53] in list []
+[17May2025 20:05:28.649] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=59.19, y=81.00, z=131.65]
+[17May2025 20:05:35.848] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.51, y=79.99, z=144.78], dimensionLocationPath overworld
+[17May2025 20:05:35.848] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.51, y=79.99, z=144.78] in list []
+[17May2025 20:05:36.047] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.51, y=79.39, z=144.63]
+[17May2025 20:05:36.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.51, y=79.41, z=144.48], dimensionLocationPath overworld
+[17May2025 20:05:36.399] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.51, y=79.41, z=144.48] in list []
+[17May2025 20:05:36.750] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.51, y=80.24, z=144.40]
+[17May2025 20:07:17.396] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=47.17, y=160.61, z=155.58], dimensionLocationPath overworld
+[17May2025 20:07:17.396] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=47.17, y=160.61, z=155.58] in list []
+[17May2025 20:07:17.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=47.20, y=151.99, z=155.62]
+[17May2025 20:07:19.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.16, y=149.49, z=155.43], dimensionLocationPath overworld
+[17May2025 20:07:19.102] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=48.16, y=149.49, z=155.43] in list []
+[17May2025 20:07:20.848] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=52.25, y=116.03, z=152.48]
+[17May2025 20:07:21.950] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=53.34, y=109.28, z=151.48], dimensionLocationPath overworld
+[17May2025 20:07:21.950] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=53.34, y=109.28, z=151.48] in list []
+[17May2025 20:07:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> volvi
+[17May2025 20:07:23.048] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.10, y=96.33, z=149.83]
+[17May2025 20:07:24.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.34, y=91.27, z=149.60], dimensionLocationPath overworld
+[17May2025 20:07:24.250] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.34, y=91.27, z=149.60] in list []
+[17May2025 20:07:24.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.34, y=85.74, z=149.60]
+[17May2025 20:07:26.148] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.34, y=79.83, z=149.60], dimensionLocationPath overworld
+[17May2025 20:07:26.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.34, y=79.83, z=149.60] in list []
+[17May2025 20:07:26.349] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=55.34, y=79.63, z=149.60]
+[17May2025 20:07:28.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> pagame mi alva de viejo
+[17May2025 20:07:30.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> okey
+[17May2025 20:07:40.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a donde vamos
+[17May2025 20:07:43.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> siga
+[17May2025 20:08:10.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> tengo un efecto permanente?
+[17May2025 20:08:21.503] [Worker-Main-179/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-296, y=-46, z=333}
+[17May2025 20:08:21.504] [Worker-Main-179/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-296, y=-46, z=333}
+[17May2025 20:08:36.074] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9b
+[17May2025 20:08:36.397] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-296, y=-46, z=333}
+[17May2025 20:08:42.694] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 20:08:46.900] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-301, y=-53, z=432}
+[17May2025 20:08:46.901] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-302, y=-54, z=433}
+[17May2025 20:09:00.586] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[17May2025 20:09:00.590] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[17May2025 20:09:00.591] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[17May2025 20:09:00.592] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[17May2025 20:09:00.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[17May2025 20:09:00.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[17May2025 20:09:00.593] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[17May2025 20:09:07.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> tengo descomposicion permanente
+[17May2025 20:09:14.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 20:09:14.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 20:09:51.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> la armadura esta medio rota
+[17May2025 20:10:21.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/77599, l='ServerLevel[world]', x=-549.40, y=60.00, z=954.88], dimensionLocationPath overworld
+[17May2025 20:10:21.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/77599, l='ServerLevel[world]', x=-549.40, y=60.00, z=954.88] in list []
+[17May2025 20:10:22.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/77612, l='ServerLevel[world]', x=-550.48, y=59.00, z=962.13], dimensionLocationPath overworld
+[17May2025 20:10:22.312] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/77612, l='ServerLevel[world]', x=-550.48, y=59.00, z=962.13] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@12f1f]
+[17May2025 20:10:28.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-574, y=-37, z=729}
+[17May2025 20:10:28.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-567, y=-37, z=722}
+[17May2025 20:10:28.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-569, y=-37, z=724}
+[17May2025 20:10:28.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-566, y=-37, z=722}
+[17May2025 20:10:28.798] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-568, y=-32, z=734}
+[17May2025 20:10:28.799] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-573, y=-37, z=750}
+[17May2025 20:10:42.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> la envidea
+[17May2025 20:10:45.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-589, y=-32, z=722}
+[17May2025 20:10:45.002] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-584, y=-37, z=728}
+[17May2025 20:10:45.003] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-577, y=-37, z=744}
+[17May2025 20:10:47.054] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ItemEntity['Redstone Torch'/77599, l='ServerLevel[world]', x=-549.40, y=60.00, z=954.88]
+[17May2025 20:10:57.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> por otro lado y eso que era
+[17May2025 20:11:02.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no se
+[17May2025 20:11:43.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[17May2025 20:11:43.139] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[17May2025 20:11:43.154] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_3
+[17May2025 20:12:29.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-475, y=75, z=1125} BlockPos{x=-474, y=74, z=1125}
+[17May2025 20:13:21.606] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-476.31, y=75.00, z=1124.04], dimensionLocationPath overworld
+[17May2025 20:13:21.606] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-476.31, y=75.00, z=1124.04] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@12f2c]
+[17May2025 20:13:21.752] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-476.31, y=75.00, z=1124.00]
+[17May2025 20:13:22.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-476.32, y=72.89, z=1122.85], dimensionLocationPath overworld
+[17May2025 20:13:22.404] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-476.32, y=72.89, z=1122.85] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@12f2c]
+[17May2025 20:13:29.355] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-480.91, y=66.00, z=1112.95]
+[17May2025 20:14:00.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-482.77, y=66.00, z=1123.78], dimensionLocationPath overworld
+[17May2025 20:14:00.804] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-482.77, y=66.00, z=1123.78] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@12f2c]
+[17May2025 20:14:01.755] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-484.02, y=66.00, z=1128.60]
+[17May2025 20:14:14.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 20:14:14.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 20:15:05.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-482.07, y=69.00, z=1118.30], dimensionLocationPath overworld
+[17May2025 20:15:05.650] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-482.07, y=69.00, z=1118.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@12f2c]
+[17May2025 20:15:08.850] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-482.74, y=69.00, z=1118.30]
+[17May2025 20:15:35.001] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-481.23, y=74.00, z=1117.30], dimensionLocationPath overworld
+[17May2025 20:15:35.001] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-481.23, y=74.00, z=1117.30] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@12f2c]
+[17May2025 20:15:35.101] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-481.23, y=74.00, z=1117.30]
+[17May2025 20:15:55.803] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/77612, l='ServerLevel[world]', x=-550.48, y=59.00, z=962.13, removed=DISCARDED]
+[17May2025 20:15:59.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> donde esta
+[17May2025 20:16:03.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> no se
+[17May2025 20:16:09.915] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[17May2025 20:16:09.916] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_pillager_0
+[17May2025 20:16:09.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[17May2025 20:16:09.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_evoker_0
+[17May2025 20:16:09.918] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_vindicator_spawner_0
+[17May2025 20:16:32.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> i verga se murio solo
+[17May2025 20:16:54.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> te dio los objetos?
+[17May2025 20:16:58.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no
+[17May2025 20:17:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> yo no lo mate
+[17May2025 20:17:05.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> tonces debe estar vivo
+[17May2025 20:17:08.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> yo estaba tankeando
+[17May2025 20:17:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> para que tu lo mataras
+[17May2025 20:17:22.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pero ni verga
+[17May2025 20:17:25.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> para dondese fue
+[17May2025 20:17:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> toca buscarlo
+[17May2025 20:17:42.656] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-475.84, y=66.00, z=1122.26], dimensionLocationPath overworld
+[17May2025 20:17:42.656] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-475.84, y=66.00, z=1122.26] in list []
+[17May2025 20:17:42.762] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-475.84, y=66.00, z=1122.26]
+[17May2025 20:17:52.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> aqui esta
+[17May2025 20:18:05.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> toma
+[17May2025 20:18:12.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has completed the challenge [Restless Sleepwalker]
+[17May2025 20:18:17.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> si se muro solo?
+[17May2025 20:18:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> y esta mierda
+[17May2025 20:18:27.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si parece
+[17May2025 20:18:37.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has completed the challenge [Steeped in Strength]
+[17May2025 20:18:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> pense que daba era el alma
+[17May2025 20:18:42.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a
+[17May2025 20:18:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> hay esta
+[17May2025 20:18:56.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> vamos por otro o que
+[17May2025 20:19:14.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 20:19:14.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 20:19:26.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> vamos
+[17May2025 20:19:42.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> sigueme
+[17May2025 20:20:43.491] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[17May2025 20:20:50.776] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:wild_ruin/wild_ruin_9
+[17May2025 20:20:55.380] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of structory:ruin/taiga_surface/tower3
+[17May2025 20:20:57.494] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_0
+[17May2025 20:20:59.443] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_3
+[17May2025 20:20:59.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_vindicator_0
+[17May2025 20:20:59.444] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_illusioner_0
+[17May2025 20:20:59.449] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_0
+[17May2025 20:20:59.451] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_1
+[17May2025 20:20:59.452] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_6
+[17May2025 20:20:59.454] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[17May2025 20:20:59.455] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_8
+[17May2025 20:20:59.456] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_0
+[17May2025 20:20:59.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_pillager_0
+[17May2025 20:20:59.457] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_evoker_0
+[17May2025 20:20:59.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_5
+[17May2025 20:20:59.458] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_3
+[17May2025 20:20:59.460] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_4
+[17May2025 20:20:59.464] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[17May2025 20:20:59.465] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_7
+[17May2025 20:20:59.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_4
+[17May2025 20:20:59.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_7
+[17May2025 20:20:59.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_5
