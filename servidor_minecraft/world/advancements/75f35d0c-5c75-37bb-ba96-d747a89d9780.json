@@ -79,9 +79,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-05-17 19:59:14 +0000",
       "log_spam_fixer": "2025-05-13 17:50:54 +0000"
     },
-    "done": false
+    "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
@@ -5889,6 +5890,12 @@
   "biomesoplenty:recipes/transportation/willow_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-05-17 19:58:50 +0000"
     },
     "done": true
   },
