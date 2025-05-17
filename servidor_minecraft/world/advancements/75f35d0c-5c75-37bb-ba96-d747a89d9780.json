@@ -5953,6 +5953,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-17 21:08:46 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/lich_bane": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
@@ -5986,6 +5992,12 @@
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 20:59:23 +0000"
     },
     "done": true
   },
@@ -6064,6 +6076,12 @@
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-05-17 20:59:23 +0000"
     },
     "done": true
   },
@@ -6205,6 +6223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 20:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
@@ -6271,6 +6295,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 20:59:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
@@ -6304,6 +6334,12 @@
   "soulsweapons:recipes/combat/draugr": {
     "criteria": {
       "has_item": "2025-05-17 20:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-05-17 20:59:23 +0000"
     },
     "done": true
   },
