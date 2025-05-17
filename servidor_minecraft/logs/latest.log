@@ -861,3 +861,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 16:59:50.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [17May2025 17:01:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was blown up by Creeper
 [17May2025 17:02:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Cave Spider
+[17May2025 17:40:37.876] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jhonny365[/127.84.98.215:46737] logged in with entity id 7560 at (59.21299818328328, -14.0, -1977.1697878786258)
+[17May2025 17:40:37.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 joined the game
+[17May2025 17:40:37.901] [Server thread/INFO] [Jade/]: Syncing config to jhonny365 (75f35d0c-5c75-37bb-ba96-d747a89d9780)
+[17May2025 17:43:23.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> manco xd
+[17May2025 17:43:30.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ando en la llamda pendejo
+[17May2025 17:45:47.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya se fue el pendejo
+[17May2025 17:45:53.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> xd
+[17May2025 17:45:57.644] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 17:46:08.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya volvio el pendejo
+[17May2025 17:46:12.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> porque el cel anda muerto
+[17May2025 17:50:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [Simple Dungeon Room]
