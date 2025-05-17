@@ -872,3 +872,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 17:46:08.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya volvio el pendejo
 [17May2025 17:46:12.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> porque el cel anda muerto
 [17May2025 17:50:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [Simple Dungeon Room]
+[17May2025 18:05:38.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:05:38.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
