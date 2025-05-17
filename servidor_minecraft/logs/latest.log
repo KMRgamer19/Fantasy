@@ -857,3 +857,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 16:19:19.916] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ganster52[/127.124.94.212:35567] logged in with entity id 111 at (-1428.300000011921, 9.0, -287.5372007378177)
 [17May2025 16:19:20.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
 [17May2025 16:19:20.255] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
+[17May2025 16:54:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] esta jugando
