@@ -874,3 +874,387 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 17:50:57.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [Simple Dungeon Room]
 [17May2025 18:05:38.092] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
 [17May2025 18:05:38.093] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:16:02.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> que hace manco
+[17May2025 18:18:16.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] quien es marico
+[17May2025 18:18:24.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> el dueno del server
+[17May2025 18:18:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 18:18:35.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] vega no se quien es
+[17May2025 18:18:55.994] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:21:39.909] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-319, y=-41, z=-1918}
+[17May2025 18:21:58.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KMRgamerotaku[/127.181.128.176:37513] logged in with entity id 21332 at (-155.38142182857612, 68.0, -515.3433389910454)
+[17May2025 18:21:58.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku joined the game
+[17May2025 18:21:58.929] [Server thread/INFO] [Jade/]: Syncing config to KMRgamerotaku (bf30ee1d-42cf-3c65-81ec-32582926b884)
+[17May2025 18:22:32.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> bueno a ver que hacen
+[17May2025 18:22:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> buisco dragones
+[17May2025 18:22:46.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[17May2025 18:22:47.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has made the advancement [Glow and Behold!]
+[17May2025 18:23:04.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> bueno gnster esta en su casa
+[17May2025 18:23:22.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> ACABO DE LLEGAR XD
+[17May2025 18:23:36.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y jhonny
+[17May2025 18:23:45.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> NO
+[17May2025 18:24:09.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:24:09.646] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:24:36.746] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[17May2025 18:24:38.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-286, y=-33, z=-2346} but found not block entity block Block{minecraft:cave_air} at location
+[17May2025 18:24:38.001] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:cave_air} but failed at location BlockPos{x=-286, y=-33, z=-2346}
+[17May2025 18:24:59.433] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-475, y=-54, z=-2413}
+[17May2025 18:24:59.433] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-476, y=-54, z=-2413}
+[17May2025 18:24:59.434] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-475, y=-54, z=-2413}
+[17May2025 18:24:59.434] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-476, y=-54, z=-2413}
+[17May2025 18:24:59.586] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-479, y=21, z=-2457}
+[17May2025 18:24:59.587] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-479, y=21, z=-2456}
+[17May2025 18:24:59.587] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-479, y=21, z=-2457}
+[17May2025 18:24:59.587] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-479, y=21, z=-2456}
+[17May2025 18:25:02.242] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-490, y=22, z=-2453}
+[17May2025 18:25:02.243] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-490, y=22, z=-2453}
+[17May2025 18:25:02.451] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-476, y=-54, z=-2413}
+[17May2025 18:25:02.452] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-475, y=-54, z=-2413}
+[17May2025 18:25:03.752] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-479, y=21, z=-2457}
+[17May2025 18:25:03.753] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-479, y=21, z=-2456}
+[17May2025 18:25:20.681] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-490, y=22, z=-2453}
+[17May2025 18:25:22.359] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-557, y=63, z=-2604}
+[17May2025 18:25:22.360] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-558, y=63, z=-2604}
+[17May2025 18:25:27.818] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-541, y=-5, z=-2374}
+[17May2025 18:25:27.818] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-541, y=-5, z=-2374}
+[17May2025 18:25:31.638] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-548, y=22, z=-2360}
+[17May2025 18:25:31.638] [Worker-Main-34/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-548, y=22, z=-2360}
+[17May2025 18:25:32.019] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-541, y=-5, z=-2374}
+[17May2025 18:25:35.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> verga no consigo dragones
+[17May2025 18:25:38.107] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-548, y=22, z=-2360}
+[17May2025 18:25:59.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> siga con lo suyo
+[17May2025 18:26:28.299] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-530, y=-29, z=-2272}
+[17May2025 18:26:28.300] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-530, y=-29, z=-2272}
+[17May2025 18:26:30.378] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-528, y=-29, z=-2272}
+[17May2025 18:26:30.379] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-528, y=-29, z=-2272}
+[17May2025 18:26:30.751] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-530, y=-29, z=-2272}
+[17May2025 18:26:33.939] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-500, y=-25, z=-2261}
+[17May2025 18:26:33.939] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-500, y=-25, z=-2261}
+[17May2025 18:26:34.632] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-528, y=-29, z=-2272}
+[17May2025 18:26:35.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a qua que cordena es que sale
+[17May2025 18:26:42.657] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-495, y=21, z=-2281}
+[17May2025 18:26:42.657] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-494, y=21, z=-2282}
+[17May2025 18:26:42.657] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-494, y=21, z=-2281}
+[17May2025 18:26:42.657] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-495, y=21, z=-2281}
+[17May2025 18:26:42.657] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-494, y=21, z=-2282}
+[17May2025 18:26:42.657] [Worker-Main-81/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-494, y=21, z=-2281}
+[17May2025 18:26:42.776] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-500, y=-25, z=-2261}
+[17May2025 18:26:45.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> QUE COSA XD
+[17May2025 18:26:47.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ni me acuerd
+[17May2025 18:26:53.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> los dragones
+[17May2025 18:26:56.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 18:26:56.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> -15 a 15
+[17May2025 18:28:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no ni verga
+[17May2025 18:28:18.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ni uno
+[17May2025 18:29:23.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KMRgamerotaku moved too quickly! -8.841397018392286,0.0,6.355874293275285
+[17May2025 18:29:45.197] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:30:15.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ya tengo uno
+[17May2025 18:30:21.261] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23055, l='ServerLevel[world]', x=3.70, y=24.00, z=-2217.70] died, message: 'Nitwit was slain by Zombie'
+[17May2025 18:30:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> lo malo es que esta en el agua
+[17May2025 18:30:51.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> eso es lo de menos
+[17May2025 18:30:58.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> llava es nivel 3 o nivel 5?
+[17May2025 18:30:58.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> PARA QUE TAS BUSCANDO LOS DRAGONES
+[17May2025 18:31:00.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 18:31:06.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> para cazarlo para que mas
+[17May2025 18:31:07.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> 5
+[17May2025 18:31:14.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> dajo de la cueva
+[17May2025 18:31:19.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> pero es bajo del agua
+[17May2025 18:31:22.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD BUSQUELO USTED MISMO GEY MANCO ASI NO CUADRA
+[17May2025 18:31:24.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y lo malo es de helo
+[17May2025 18:31:26.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> ABURRE RAPIDO XD
+[17May2025 18:31:36.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 18:31:44.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> es muy dificil encontrar
+[17May2025 18:31:52.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> QUE SE BUSQUE DIJE
+[17May2025 18:31:55.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ajaj
+[17May2025 18:31:57.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> DEJE DE HACER TRAMPA
+[17May2025 18:31:59.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> asi me vas a decir
+[17May2025 18:32:05.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> cuando quiera buscar uno
+[17May2025 18:32:09.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 18:32:15.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> NADA QUE VER NO TENGO APUROS
+[17May2025 18:32:18.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> jhonny tp a mi casa
+[17May2025 18:32:44.150] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 18:32:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> bueno
+[17May2025 18:32:58.507] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/29693, l='ServerLevel[world]', x=-132.71, y=65.57, z=-518.48] died, message: 'Unemployed tried to swim in lava'
+[17May2025 18:33:01.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ve por el agua de la aldea
+[17May2025 18:33:08.115] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jhonny365 lost connection: Disconnected
+[17May2025 18:33:08.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 left the game
+[17May2025 18:33:16.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 18:33:21.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD SE LE FUE LA LUZ
+[17May2025 18:33:25.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> SE SALIO DE DC
+[17May2025 18:33:28.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> DALE VOZ XD
+[17May2025 18:33:30.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 18:33:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no te voy a escuchar en el voice
+[17May2025 18:33:49.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> PORQUE XD
+[17May2025 18:33:53.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> aui en la casa esta haciendo buya
+[17May2025 18:34:00.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> AHH YA ASI SI
+[17May2025 18:34:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[17May2025 18:35:37.924] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: jhonny365[/127.84.98.215:45595] logged in with entity id 30852 at (-155.5, 72.0625, -513.5)
+[17May2025 18:35:37.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 joined the game
+[17May2025 18:35:37.985] [Server thread/INFO] [Jade/]: Syncing config to jhonny365 (75f35d0c-5c75-37bb-ba96-d747a89d9780)
+[17May2025 18:35:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> VOLVIO
+[17May2025 18:35:53.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si lo se
+[17May2025 18:35:53.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> tube un bajon de luz
+[17May2025 18:36:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> gasnter
+[17May2025 18:36:10.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> el dragon esta cerca de tu casa
+[17May2025 18:36:11.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> DIME
+[17May2025 18:36:15.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 18:36:19.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> JODETE
+[17May2025 18:36:28.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si jhonny no lo mata te lo pueede destruit
+[17May2025 18:36:42.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[17May2025 18:36:43.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a dodne voy
+[17May2025 18:36:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[17May2025 18:37:11.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> para alla
+[17May2025 18:37:20.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[17May2025 18:38:28.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> vas a consguir una estructura de verde
+[17May2025 18:38:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> eso esta en el mar
+[17May2025 18:38:45.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si
+[17May2025 18:38:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> verga
+[17May2025 18:39:45.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ajja ya la viste
+[17May2025 18:39:47.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ahora
+[17May2025 18:39:50.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has completed the challenge [Find: The column temple]
+[17May2025 18:39:51.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jhonny365) moved wrongly! 0.6245102872235293
+[17May2025 18:39:51.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jhonny365) moved wrongly! 0.7409522288603512
+[17May2025 18:39:51.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jhonny365) moved wrongly! 0.698157934211963
+[17May2025 18:39:51.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jhonny365) moved wrongly! 0.6180680883255718
+[17May2025 18:39:55.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ve para donde esta un pequeño barco
+[17May2025 18:40:20.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of jhonny365) moved wrongly! 0.25884882584517754
+[17May2025 18:40:24.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> listo es aqui
+[17May2025 18:40:49.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> lo malo es que esta hay a bajo
+[17May2025 18:41:03.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> crea una puerta
+[17May2025 18:41:20.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> porque esta lejo
+[17May2025 18:43:03.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-276, y=55, z=-408} BlockPos{x=-276, y=54, z=-408}
+[17May2025 18:45:29.295] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:stone_golem but it was marked as removed already
+[17May2025 18:45:43.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Free Willy]
+[17May2025 18:45:52.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8299987301952868
+[17May2025 18:45:52.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 1.0951237648463348
+[17May2025 18:45:53.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.6431396050202238
+[17May2025 18:45:58.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ahoira si
+[17May2025 18:46:17.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> donde es la verga
+[17May2025 18:46:23.015] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.815546097573648
+[17May2025 18:46:31.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8127584263090489
+[17May2025 18:46:34.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7708733334132073
+[17May2025 18:46:34.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8045081201240545
+[17May2025 18:46:58.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has completed the challenge [Find: Ruin pillager]
+[17May2025 18:47:01.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.32466182110141517
+[17May2025 18:47:01.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:47:01.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:47:01.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:47:01.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:47:17.912] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.38746800865849856
+[17May2025 18:47:18.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.2658530249138604
+[17May2025 18:48:10.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:48:10.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:48:10.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:48:10.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.375
+[17May2025 18:48:10.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.33401059957554935
+[17May2025 18:48:13.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.4248941013927548
+[17May2025 18:48:15.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.278910664116558
+[17May2025 18:48:27.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.33108359347903027
+[17May2025 18:48:27.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.4408166243064066
+[17May2025 18:48:27.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.4862513453084386
+[17May2025 18:48:27.564] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5261585828344704
+[17May2025 18:48:27.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 1.3300900452281894
+[17May2025 18:48:27.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 1.8265947206962525
+[17May2025 18:48:27.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 1.8265947206962525
+[17May2025 18:48:27.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8205726534834064
+[17May2025 18:48:27.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8205726534834064
+[17May2025 18:48:27.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.47252915368358483
+[17May2025 18:48:27.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.39717028943106675
+[17May2025 18:49:25.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.3493035088855108
+[17May2025 18:49:26.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.3234991578737077
+[17May2025 18:49:28.136] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5903878542428469
+[17May2025 18:49:31.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.6110898682870197
+[17May2025 18:49:36.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8134713041945788
+[17May2025 18:50:13.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8456005890799506
+[17May2025 18:50:16.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7303819823558253
+[17May2025 18:50:17.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7821679255432787
+[17May2025 18:50:17.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7931626643990712
+[17May2025 18:50:17.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7987552054891225
+[17May2025 18:50:29.011] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7459306780261625
+[17May2025 18:50:31.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5327161419144089
+[17May2025 18:50:36.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7798579145606882
+[17May2025 18:50:37.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5266314071372351
+[17May2025 18:50:37.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5612791683174508
+[17May2025 18:50:38.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.48211393373496786
+[17May2025 18:50:38.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.48211393373496786
+[17May2025 18:50:44.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> volvi
+[17May2025 18:50:46.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.3807489199583532
+[17May2025 18:50:49.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 18:50:49.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.4023413852900477
+[17May2025 18:50:50.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.4985365246848617
+[17May2025 18:50:50.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5609814067476856
+[17May2025 18:50:55.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.6151983197282075
+[17May2025 18:51:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> baja jhonny que no te veo
+[17May2025 18:51:17.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> baja o sube?
+[17May2025 18:51:18.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.6233917157035209
+[17May2025 18:51:21.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.47404630668527026
+[17May2025 18:51:22.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7137502633267416
+[17May2025 18:51:23.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8076851636864875
+[17May2025 18:51:23.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.810378317688012
+[17May2025 18:51:23.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8148487486815632
+[17May2025 18:51:23.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.8197638919173401
+[17May2025 18:51:29.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> baja
+[17May2025 18:51:31.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> esta a bajo
+[17May2025 18:51:32.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a dodne
+[17May2025 18:51:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> usted baje
+[17May2025 18:51:43.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> pero a donde
+[17May2025 18:51:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> donde hay luz
+[17May2025 18:51:53.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y un cofre
+[17May2025 18:51:54.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ningun lado
+[17May2025 18:52:04.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.7113059676253114
+[17May2025 18:52:07.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si donde esta la lana roja
+[17May2025 18:52:10.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.806406188185362
+[17May2025 18:52:21.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> el barco?
+[17May2025 18:52:23.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[17May2025 18:52:25.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> aqui
+[17May2025 18:52:40.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> baje
+[17May2025 18:52:47.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Survival Mode]
+[17May2025 18:52:51.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[17May2025 18:52:56.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5087590270046671
+[17May2025 18:52:57.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.26675340274608034
+[17May2025 18:53:00.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> por hay pa bajo
+[17May2025 18:53:07.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.5619619192302293
+[17May2025 18:53:13.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of jhonny365) moved wrongly! 0.33632453453739874
+[17May2025 18:54:38.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> le cae arriba
+[17May2025 18:54:39.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> cuidado
+[17May2025 18:54:54.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> es categoria 5 parecciendo 6
+[17May2025 18:55:04.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> hay 6?
+[17May2025 18:55:06.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si
+[17May2025 18:55:09.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> me entero
+[17May2025 18:55:10.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> listo
+[17May2025 18:55:13.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> baja
+[17May2025 18:55:31.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ya sabe en donde esta
+[17May2025 18:55:49.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y hay otro as cerca
+[17May2025 18:56:04.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> vamos a dejarselo a haster
+[17May2025 18:56:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> a ver si lo mata
+[17May2025 18:56:09.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> okey
+[17May2025 18:56:35.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> salio mal
+[17May2025 18:57:10.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> esta pequeño
+[17May2025 18:57:18.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> eso no se avia despertado?
+[17May2025 18:57:22.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no
+[17May2025 18:57:53.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> lo otro moustro lo esta mooviendo
+[17May2025 18:58:05.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ahora si
+[17May2025 18:58:18.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> se volvio a dormir
+[17May2025 18:58:22.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> XD
+[17May2025 18:58:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> se paro
+[17May2025 18:58:28.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> se durmiendo
+[17May2025 18:58:30.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 18:58:31.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> como es la verga pues
+[17May2025 18:58:33.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> esta marico
+[17May2025 18:58:40.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> listo
+[17May2025 18:58:45.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 18:58:50.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> se dipierta y se duerme
+[17May2025 18:59:00.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.49588027953188885
+[17May2025 18:59:00.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.8361778878919495
+[17May2025 18:59:00.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 1.1406602971169377
+[17May2025 18:59:00.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 1.4258253713961722
+[17May2025 18:59:00.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.28516507427923443
+[17May2025 18:59:00.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.28516507427923443
+[17May2025 18:59:01.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.25320669387267003
+[17May2025 18:59:01.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.38804000934609917
+[17May2025 18:59:01.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.5236700035176227
+[17May2025 18:59:01.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.33831167911390025
+[17May2025 18:59:01.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.5128962810166513
+[17May2025 18:59:01.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.6697189921098072
+[17May2025 18:59:02.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ganster52) moved wrongly! 0.810741087038167
+[17May2025 18:59:15.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> 416 de vida
+[17May2025 18:59:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> 340
+[17May2025 19:00:19.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> la cama la quito
+[17May2025 19:00:50.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[17May2025 19:01:07.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[17May2025 19:01:08.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> tengo que ver como hare esto
+[17May2025 19:01:24.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 has reached the goal [Postmortal]
+[17May2025 19:01:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> AJAJA
+[17May2025 19:01:50.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> REVIVEME GAMER
+[17May2025 19:01:56.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no
+[17May2025 19:01:56.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> QUERIAN QUE LO DESPETARA YA
+[17May2025 19:01:59.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> JAJAJA
+[17May2025 19:02:15.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> solo sirvo para revivir
+[17May2025 19:02:17.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> GAMER
+[17May2025 19:02:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> 5 4 3
+[17May2025 19:02:25.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Ice Dragon
+[17May2025 19:02:29.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no voy a revivir
+[17May2025 19:02:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:02:40.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> solo sirvo para buscar dungenos
+[17May2025 19:02:59.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> jhonny esta punto de salir
+[17May2025 19:03:10.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was blown up by Creeper
+[17May2025 19:03:13.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:04:08.245] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 19:06:45.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> 3 flecha
+[17May2025 19:06:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> listo
+[17May2025 19:06:56.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> fueron 4
+[17May2025 19:07:00.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:07:10.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> gasnter a ti que te mato
+[17May2025 19:07:18.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> EL DRAGON GEY
+[17May2025 19:07:22.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:07:25.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> QUIEN LO DESPERTO PUTA
+[17May2025 19:07:30.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:07:32.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> cual
+[17May2025 19:07:40.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> DONDE TAS TU MRKA
+[17May2025 19:07:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> donde jhonny
+[17May2025 19:07:57.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> SI XD
+[17May2025 19:07:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> viviendo como lo mata
+[17May2025 19:08:05.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> FUI YO QUIEN LO DESPERTO XD
+[17May2025 19:08:08.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:08:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> yo creo
+[17May2025 19:08:19.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ni se cual dragon esta hablando
+[17May2025 19:08:22.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> CAI ARRIBA DE EL XD
+[17May2025 19:08:33.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> EL DE HIELO QUE ESTA EN EL MAR CATEGORIA 5
+[17May2025 19:08:34.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:08:43.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> esta aqui a bajo
+[17May2025 19:08:47.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:08:52.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> lo mato jhonny
+[17May2025 19:08:54.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> MI CUERPO SI ESTA ALLA
+[17May2025 19:09:00.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> wtf
+[17May2025 19:09:03.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> donde
+[17May2025 19:09:05.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:09:11.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> tu viniste para aca donde esta jhonny
+[17May2025 19:09:17.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> ALLA XD BUSCA PARA QUE VEAS DONDE CAI XD
+[17May2025 19:09:22.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:09:24.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> JUSTO DONDE DORMIA
+[17May2025 19:09:32.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ni me di cuenta que tu vinist
+[17May2025 19:09:37.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:09:44.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> POR ESO TE DIJE REVIVEME XD
+[17May2025 19:09:48.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:09:51.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no non o
+[17May2025 19:09:51.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> osea que se desperto fue por el?
+[17May2025 19:09:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> s
+[17May2025 19:09:57.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si
+[17May2025 19:09:59.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> SI XD
+[17May2025 19:10:07.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> yo si decia
+[17May2025 19:10:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya lo vi
+[17May2025 19:10:12.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> LE DI UNA FLECHA Y CAI ARRIBA DE EL XD
+[17May2025 19:10:13.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> porque esta durmiendo y depestrando
+[17May2025 19:10:24.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a lla te vi
+[17May2025 19:11:08.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ya o vi
+[17May2025 19:11:14.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> jhonny
+[17May2025 19:11:19.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> mira lo aqui
+[17May2025 19:11:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> si lo vi
+[17May2025 19:11:26.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:11:53.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y por eso el dragon de nieve es el papa
+[17May2025 19:12:04.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> porque XD
+[17May2025 19:12:11.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> hace mas desatro
+[17May2025 19:12:15.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y es ma difil
+[17May2025 19:12:20.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> dificil
+[17May2025 19:12:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ven a buscar el cuerpo gasnter
+[17May2025 19:13:28.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> invten un cafe siquiera
+[17May2025 19:14:12.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD NO VOT A PODER ME AHOGO XD NO TENGO PICO BUENO XD
+[17May2025 19:14:34.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> por hay anda mi caballo de mar
+[17May2025 19:15:16.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya voy
+[17May2025 19:15:34.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> TOY JUSTO ARRIBA
+[17May2025 19:15:35.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> espera aqui jhonny
+[17May2025 19:15:36.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:15:46.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> espera
+[17May2025 19:15:48.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> jhonny
+[17May2025 19:16:01.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> qu
+[17May2025 19:16:53.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> JHONNY SUBE UN MOMENTO XD
+[17May2025 19:17:00.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> eso trato
+[17May2025 19:17:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Teleported ganster52 to jhonny365]
+[17May2025 19:17:23.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> listo
+[17May2025 19:17:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> que te ayude jhoonny
+[17May2025 19:17:50.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD ME DEJASTE MASLEJOS X
+[17May2025 19:17:52.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 drowned
+[17May2025 19:18:02.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> NO QUE VA
+[17May2025 19:18:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KMRgamerotaku has completed the challenge [Find: The column temple]
+[17May2025 19:19:36.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> y mi caballo que se hizo
+[17May2025 19:19:40.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Creative Mode]
+[17May2025 19:19:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Teleported ganster52 to KMRgamerotaku]
