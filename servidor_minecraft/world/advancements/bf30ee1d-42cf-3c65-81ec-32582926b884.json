@@ -98,6 +98,7 @@
       "fir_clearing": "2025-05-07 22:26:42 +0000",
       "snowy_coniferous_forest": "2025-05-07 19:21:35 +0000",
       "snowy_fir_clearing": "2025-05-07 21:59:37 +0000",
+      "tundra": "2025-05-17 20:34:46 +0000",
       "glowing_grotto": "2025-05-07 20:21:12 +0000",
       "undergrowth": "2025-05-10 00:10:14 +0000",
       "snowy_maple_woods": "2025-05-07 18:56:54 +0000"
@@ -6532,6 +6533,12 @@
       "has_item": "2025-05-17 20:01:59 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:pyramids": {
+    "criteria": {
+      "in_pyramid_snowy": "2025-05-17 20:33:36 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/combat/rageblade": {
     "criteria": {
