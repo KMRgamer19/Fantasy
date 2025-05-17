@@ -8137,3 +8137,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 17:04:23.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ganster52'/111, l='ServerLevel[world]', x=-1408.63, y=18.00, z=-247.96], dimensionLocationPath overworld
 [17May2025 17:04:23.448] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ganster52'/111, l='ServerLevel[world]', x=-1408.63, y=18.00, z=-247.96] in list []
 [17May2025 17:07:39.500] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[17May2025 17:09:14.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 17:09:14.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 17:14:14.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 17:14:14.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 17:15:45.499] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[17May2025 17:16:44.492] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:overworld
+[17May2025 17:18:24.498] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
