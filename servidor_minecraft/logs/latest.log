@@ -858,3 +858,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 16:19:20.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 joined the game
 [17May2025 16:19:20.255] [Server thread/INFO] [Jade/]: Syncing config to ganster52 (57ae1326-149e-39db-8d74-cc5b0a5a904d)
 [17May2025 16:54:41.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] esta jugando
+[17May2025 16:59:50.696] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 17:01:03.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was blown up by Creeper
+[17May2025 17:02:32.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 was slain by Cave Spider
