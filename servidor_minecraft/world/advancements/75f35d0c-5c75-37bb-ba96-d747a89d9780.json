@@ -795,6 +795,7 @@
       "golden_apple": "2025-05-16 00:18:33 +0000",
       "cookie": "2025-05-13 21:10:43 +0000",
       "suspicious_stew": "2025-05-13 22:07:01 +0000",
+      "cooked_chicken": "2025-05-17 19:49:01 +0000",
       "enchanted_golden_apple": "2025-05-13 19:14:03 +0000",
       "cod": "2025-05-13 21:50:05 +0000",
       "carrot": "2025-05-13 18:01:48 +0000"
@@ -5795,6 +5796,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_blue_to_dragonscales_blue": {
+    "criteria": {
+      "has_dragonscale_blue": "2025-05-17 19:46:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-17 19:09:32 +0000"
@@ -5891,6 +5898,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragonscale_silver_to_dragonscales_silver": {
+    "criteria": {
+      "has_dragonscale_silver": "2025-05-17 19:46:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-17 18:43:00 +0000"
@@ -5900,6 +5913,12 @@
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-05-17 18:43:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-05-17 19:46:24 +0000"
     },
     "done": true
   },
@@ -5924,6 +5943,12 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_white_to_dragonscales_white": {
+    "criteria": {
+      "has_dragonscale_white": "2025-05-17 19:46:21 +0000"
     },
     "done": true
   },
@@ -5954,6 +5979,12 @@
   "awesomedungeonocean:root": {
     "criteria": {
       "awesomedungeonocean:ocean_the_column_temple": "2025-05-17 18:39:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_sapphire_to_dragonscales_sapphire": {
+    "criteria": {
+      "has_dragonscale_sapphire": "2025-05-17 19:46:32 +0000"
     },
     "done": true
   },
