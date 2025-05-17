@@ -11841,3 +11841,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 19:19:43.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-689.92, y=-48.09, z=-341.59] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7884]
 [17May2025 19:19:44.403] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-690.86, y=-48.09, z=-339.87]
 [17May2025 19:19:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Teleported ganster52 to KMRgamerotaku]
+[17May2025 19:20:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:20:06.704] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=-693.52, y=60.94, z=-380.80]
+[17May2025 19:20:11.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Set own game mode to Spectator Mode]
+[17May2025 19:20:12.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> ME VAS A HACER VOLVER LOCO MALDITO
+[17May2025 19:20:20.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=-660.63, y=62.99, z=-356.81], dimensionLocationPath overworld
+[17May2025 19:20:20.149] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=-660.63, y=62.99, z=-356.81] in list []
+[17May2025 19:20:37.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> AJA Y MIS VAINAS
+[17May2025 19:20:37.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> ya sali
+[17May2025 19:20:39.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:20:43.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> las tengo yo
+[17May2025 19:20:45.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> jhonny
+[17May2025 19:20:46.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> -_-
+[17May2025 19:20:48.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:20:52.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ajaja
+[17May2025 19:20:53.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ja
+[17May2025 19:20:54.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> por algo dije ya voy
+[17May2025 19:20:54.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> a
+[17May2025 19:20:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> VETE ALA VERGA AHORA TOY ABAJO
+[17May2025 19:20:56.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ahaj
+[17May2025 19:21:04.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> deja que te maten y ya
+[17May2025 19:21:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> lleva rato en eso
+[17May2025 19:21:13.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [KMRgamerotaku: Teleported ganster52 to jhonny365]
+[17May2025 19:21:19.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> PERA
+[17May2025 19:21:28.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> JHONNY ATRAS
+[17May2025 19:21:29.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:21:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> XD
+[17May2025 19:21:53.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> dale yo los veo
+[17May2025 19:22:00.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> jajaa
+[17May2025 19:22:04.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> por hay habia otro dragon
+[17May2025 19:22:25.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> MIS MANZANAS
+[17May2025 19:22:26.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> XD
+[17May2025 19:22:31.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> NO USE NI 1
+[17May2025 19:22:32.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> teniasn manzanas?
+[17May2025 19:22:36.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> SI
+[17May2025 19:22:42.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> Y ZANAHORIAS DORADAS
+[17May2025 19:22:46.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> verga no me acuedo cuantas tenias yo
+[17May2025 19:22:51.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> AH LAS ZANAHORIAS LAS TENGO
+[17May2025 19:23:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> AY
+[17May2025 19:23:36.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> jhony salvando el dia
+[17May2025 19:24:14.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 19:24:14.121] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 19:24:17.103] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=-145.06, y=63.00, z=-432.11]
+[17May2025 19:24:17.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=-145.06, y=63.00, z=-432.11], dimensionLocationPath overworld
+[17May2025 19:24:17.406] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=-145.06, y=63.00, z=-432.11] in list []
+[17May2025 19:24:31.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 19:24:33.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> seria yo
+[17May2025 19:24:35.943] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 19:24:37.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> con mi hermano ayer
+[17May2025 19:24:46.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> moria cada 2 segundo
+[17May2025 19:24:51.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 19:24:55.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> XD
+[17May2025 19:25:18.959] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['ganster52'/111, l='ServerLevel[world]', x=-1074.31, y=63.00, z=57.54], dimensionLocationPath overworld
+[17May2025 19:25:18.959] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['ganster52'/111, l='ServerLevel[world]', x=-1074.31, y=63.00, z=57.54] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@7884]
+[17May2025 19:25:19.257] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['ganster52'/111, l='ServerLevel[world]', x=-1074.31, y=63.00, z=57.54]
+[17May2025 19:25:47.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ganster52> BUENO AHORITA ENTRO VOY A HACER ALGO EN LA CASA
+[17May2025 19:26:02.157] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ganster52 lost connection: Disconnected
+[17May2025 19:26:02.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ganster52 left the game
+[17May2025 19:27:08.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd la casa de un cubo
+[17May2025 19:27:18.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> mas o menos
+[17May2025 19:27:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> un rectangulo
+[17May2025 19:27:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> se parece
+[17May2025 19:27:31.247] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=263.58, y=68.00, z=-292.20]
+[17May2025 19:27:31.548] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=262.28, y=68.00, z=-292.23], dimensionLocationPath overworld
+[17May2025 19:27:31.548] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=262.28, y=68.00, z=-292.23] in list []
+[17May2025 19:27:45.648] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['jhonny365'/30852, l='ServerLevel[world]', x=268.74, y=68.00, z=-294.58]
+[17May2025 19:29:10.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jhonny365 has made the advancement [Voluntary Exile]
+[17May2025 19:29:14.096] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 19:29:14.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 19:30:28.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> la cague

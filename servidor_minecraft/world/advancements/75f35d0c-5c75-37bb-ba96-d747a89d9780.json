@@ -5759,6 +5759,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-05-17 19:25:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-05-17 19:15:05 +0000"
@@ -5774,6 +5780,18 @@
   "knightquest:recipes/misc/cleaver_heavy_axe": {
     "criteria": {
       "has_diamond_axe": "2025-05-17 19:14:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-05-17 19:25:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-17 19:29:10 +0000"
     },
     "done": true
   },
@@ -5843,6 +5861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-05-17 19:09:32 +0000"
@@ -5861,6 +5885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:25:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smelting": {
     "criteria": {
       "has_kelp": "2025-05-17 18:43:00 +0000"
@@ -5876,6 +5906,12 @@
   "iceandfire:recipes/combat/armor_white_boots": {
     "criteria": {
       "has_item": "2025-05-17 19:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-05-17 19:25:48 +0000"
     },
     "done": true
   },
@@ -5924,6 +5960,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-05-17 19:25:20 +0000"
     },
     "done": true
   },
