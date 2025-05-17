@@ -12205,3 +12205,94 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 20:20:59.467] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_4
 [17May2025 20:20:59.468] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_room_7
 [17May2025 20:20:59.469] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_5
+[17May2025 20:22:11.351] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-13.34, y=81.00, z=1140.25], dimensionLocationPath overworld
+[17May2025 20:22:11.351] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-13.34, y=81.00, z=1140.25] in list []
+[17May2025 20:22:11.454] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-13.57, y=81.00, z=1140.14]
+[17May2025 20:22:11.700] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-13.67, y=81.00, z=1140.09], dimensionLocationPath overworld
+[17May2025 20:22:11.700] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-13.67, y=81.00, z=1140.09] in list []
+[17May2025 20:22:11.802] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-13.67, y=81.00, z=1140.09]
+[17May2025 20:22:36.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5, y=82, z=1141} BlockPos{x=-8, y=81, z=1139}
+[17May2025 20:23:39.491] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:overworld
+[17May2025 20:23:41.498] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_end
+[17May2025 20:23:44.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 20:23:44.894] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 20:24:14.097] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 20:24:14.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 20:24:55.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-0.30, y=78.00, z=1140.53], dimensionLocationPath overworld
+[17May2025 20:24:55.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-0.30, y=78.00, z=1140.53] in list []
+[17May2025 20:24:55.900] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=-0.30, y=78.00, z=1140.53]
+[17May2025 20:25:03.501] [Server thread/DEBUG] [yungscavebiomes/]: Starting sandstorm in minecraft:the_nether
+[17May2025 20:25:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> listo no se donde mas
+[17May2025 20:26:19.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> y ahora
+[17May2025 20:26:22.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> no se
+[17May2025 20:26:24.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 20:26:25.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> :v
+[17May2025 20:26:34.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 20:26:40.050] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=4.36, y=81.00, z=1147.77], dimensionLocationPath overworld
+[17May2025 20:26:40.050] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=4.36, y=81.00, z=1147.77] in list []
+[17May2025 20:26:40.347] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=4.34, y=81.00, z=1147.75]
+[17May2025 20:26:41.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> toca ir a casa
+[17May2025 20:26:44.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> si
+[17May2025 20:27:00.500] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_end
+[17May2025 20:27:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ya esto esta exploradp
+[17May2025 20:27:20.060] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/barn
+[17May2025 20:27:38.498] [Server thread/DEBUG] [yungscavebiomes/]: STOPPING SANDSTORM in minecraft:the_nether
+[17May2025 20:27:59.714] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.714] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.715] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.715] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.715] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.715] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.715] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.715] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:27:59.716] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[17May2025 20:28:42.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=20.97, y=66.68, z=815.16], dimensionLocationPath overworld
+[17May2025 20:28:42.999] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=20.97, y=66.68, z=815.16] in list []
+[17May2025 20:28:46.401] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['KMRgamerotaku'/21332, l='ServerLevel[world]', x=13.21, y=64.25, z=814.69]
+[17May2025 20:29:14.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 20:29:14.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 20:30:08.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 20:30:08.794] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity ancient_elements:undead_miner but it was marked as removed already
+[17May2025 20:30:19.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> porque camina tanto
+[17May2025 20:30:20.621] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path9
+[17May2025 20:30:20.622] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path3
+[17May2025 20:30:20.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path8
+[17May2025 20:30:20.623] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path4
+[17May2025 20:30:20.624] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path2
+[17May2025 20:30:20.625] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_empty
+[17May2025 20:30:20.626] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration1
+[17May2025 20:30:20.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path7
+[17May2025 20:30:20.627] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path1
+[17May2025 20:30:20.629] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house4
+[17May2025 20:30:20.630] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_loom
+[17May2025 20:30:20.632] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_grindstone
+[17May2025 20:30:20.633] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_path6
+[17May2025 20:30:20.634] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house1
+[17May2025 20:30:20.635] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_library
+[17May2025 20:30:20.636] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house5
+[17May2025 20:30:20.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration2
+[17May2025 20:30:20.637] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_decoration3
+[17May2025 20:30:20.638] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village_swamp/swamp_village_house7
+[17May2025 20:30:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> XD
+[17May2025 20:30:29.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> ya explore
+[17May2025 20:30:42.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> si pero porque no uso el Tp
+[17May2025 20:30:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> como yo
+[17May2025 20:30:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd
+[17May2025 20:30:51.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no hay
+[17May2025 20:30:55.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> y donde ando yo
+[17May2025 20:31:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> xd

@@ -5742,6 +5742,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonocean:ocean_the_column_temple/find_normal": {
     "criteria": {
       "requirement": "2025-05-17 18:39:50 +0000"
@@ -5751,6 +5757,12 @@
   "soulsweapons:lord_soul": {
     "criteria": {
       "soul": "2025-05-17 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
     },
     "done": true
   },
@@ -5796,6 +5808,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
@@ -5832,6 +5850,12 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_helmet": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-17 19:09:32 +0000"
@@ -5841,6 +5865,12 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
     },
     "done": true
   },
@@ -5874,10 +5904,28 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/phantom_boots": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:draugr_boss": {
     "criteria": {
       "soulsweapons:draugr_boss": "2025-05-17 19:59:26 +0000",
       "soulsweapons:night_shade": "2025-05-17 20:18:12 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_chestplate": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_boots": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
     },
     "done": true
   },
@@ -5911,6 +5959,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 20:21:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
@@ -5923,6 +5977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/galeforce": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
@@ -5932,6 +5992,12 @@
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_chestplate": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
     },
     "done": true
   },
@@ -5959,6 +6025,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 20:21:57 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
@@ -5974,6 +6052,12 @@
   "soulsweapons:recipes/combat/forlorn_scythe": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
     },
     "done": true
   },
@@ -6030,6 +6114,12 @@
       "has_item": "2025-05-17 20:18:37 +0000"
     },
     "done": true
+  },
+  "soulsweapons:all_weapons": {
+    "criteria": {
+      "draugr": "2025-05-17 20:22:45 +0000"
+    },
+    "done": false
   },
   "soulsweapons:recipes/combat/leviathan_axe_right": {
     "criteria": {
@@ -6091,6 +6181,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-17 18:39:11 +0000"
@@ -6109,6 +6205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/darkin_blade": {
     "criteria": {
       "has_lord_soul": "2025-05-17 20:18:37 +0000"
@@ -6124,6 +6226,12 @@
   "soulsweapons:recipes/combat/freyr_sword": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/sea_helmet": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
     },
     "done": true
   },
@@ -6148,6 +6256,12 @@
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2025-05-17 19:25:20 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/phantom_leggings": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
     },
     "done": true
   },
@@ -6193,15 +6307,45 @@
     },
     "done": true
   },
+  "knightquest:recipes/misc/sea_leggings": {
+    "criteria": {
+      "has_cyan_bed": "2025-05-17 20:19:38 +0000"
+    },
+    "done": true
+  },
   "awesomedungeonocean:ocean_ruin_pillager/find_normal": {
     "criteria": {
       "requirement": "2025-05-17 18:46:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-05-17 20:21:57 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kraken_slayer_crossbow": {
     "criteria": {
       "has_item": "2025-05-17 20:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-17 20:23:50 +0000"
     },
     "done": true
   },
