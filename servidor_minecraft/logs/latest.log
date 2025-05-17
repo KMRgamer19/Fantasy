@@ -1484,3 +1484,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [17May2025 20:48:44.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> porqe no hay un aldeno que venda carne o algo asi
 [17May2025 20:49:12.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <jhonny365> y el aldeano que cosecha?
 [17May2025 20:49:19.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> no se
+[17May2025 20:55:04.252] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/89900, l='ServerLevel[world]', x=-132.54, y=65.60, z=-518.51] died, message: 'Unemployed tried to swim in lava'
+[17May2025 20:56:54.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <KMRgamerotaku> su granja de animal
